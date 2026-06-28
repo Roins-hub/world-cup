@@ -120,7 +120,6 @@ npm run codex:pack -- --topic "France vs Senegal 2002 World Cup shock" --languag
 
 ## 进一步阅读
 
-- [YouTube 方案功能对照](docs/youtube-feature-parity.md)
 - [中文平台世界杯热点剪辑调研](docs/platform-research.md)
 - [小红书足球热点对标拆解](docs/xiaohongshu-benchmark.md)
 - [世界杯脚本 Skill 与验证闭环](docs/script-skill-and-validation-loop.md)
@@ -128,7 +127,6 @@ npm run codex:pack -- --topic "France vs Senegal 2002 World Cup shock" --languag
 
 ## 资料来源
 
-- YouTube 方案视频：https://www.youtube.com/watch?v=NYnMhGVte80
 - 剪映 skill：https://github.com/luoluoluo22/jianying-editor-skill
 - FIFA 赛程：https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures
 - ESPN 赛程快照：https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket
