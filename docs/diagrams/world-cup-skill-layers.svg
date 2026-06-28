@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 760" width="1280" height="760">
+  <style>
+    text { font-family: 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Microsoft JhengHei', 'SimHei', sans-serif; }
+  </style>
+  <defs>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 10 4 L 0 8 z" fill="#2563eb" />
+    </marker>
+  </defs>
+  <rect width="1280" height="760" fill="#ffffff"/>
+  <text x="640.0" y="48" text-anchor="middle" fill="#111827" font-size="24" font-weight="800">
+<tspan x="640.0" dy="0">世界杯工作台：能力分层</tspan>
+</text>
+  <rect x="470" y="120" width="340" height="96" rx="18" ry="18" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.6"/>
+  <text x="640" y="156" text-anchor="middle" fill="#111827" font-size="20" font-weight="800">
+<tspan x="640" dy="0">工作台主控</tspan>
+</text>
+  <text x="640" y="185" text-anchor="middle" fill="#6b7280" font-size="13" font-weight="400">
+<tspan x="640" dy="0">负责串起每一层能力</tspan>
+</text>
+  <g>
+<rect x="80" y="280" width="260" height="96" rx="14" ry="14" fill="#faf5ff" stroke="#e9d5ff" stroke-width="1.6"/>
+<text x="210.0" y="311" text-anchor="middle" fill="#111827" font-size="16" font-weight="700">
+<tspan x="210.0" dy="0">选题判断层</tspan>
+</text>
+<text x="210.0" y="336" text-anchor="middle" fill="#6b7280" font-size="12.5" font-weight="400">
+<tspan x="210.0" dy="0">把比赛变成话题</tspan>
+<tspan x="210.0" dy="17">先判断值不值得做</tspan>
+</text>
+</g>
+  <g>
+<rect x="360" y="280" width="260" height="96" rx="14" ry="14" fill="#faf5ff" stroke="#e9d5ff" stroke-width="1.6"/>
+<text x="490.0" y="311" text-anchor="middle" fill="#111827" font-size="16" font-weight="700">
+<tspan x="490.0" dy="0">口播学习层</tspan>
+</text>
+<text x="490.0" y="336" text-anchor="middle" fill="#6b7280" font-size="12.5" font-weight="400">
+<tspan x="490.0" dy="0">学习对标账号说话方式</tspan>
+<tspan x="490.0" dy="17">让旁白更像真人在讲</tspan>
+</text>
+</g>
+  <g>
+<rect x="640" y="280" width="260" height="96" rx="14" ry="14" fill="#fef2f2" stroke="#fecaca" stroke-width="1.6"/>
+<text x="770.0" y="311" text-anchor="middle" fill="#111827" font-size="16" font-weight="700">
+<tspan x="770.0" dy="0">创作把关层</tspan>
+</text>
+<text x="770.0" y="336" text-anchor="middle" fill="#6b7280" font-size="12.5" font-weight="400">
+<tspan x="770.0" dy="0">不够好就重写</tspan>
+<tspan x="770.0" dy="17">决定选题、旁白、节奏能不能过</tspan>
+</text>
+</g>
+  <g>
+<rect x="920" y="280" width="260" height="96" rx="14" ry="14" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1.6"/>
+<text x="1050.0" y="311" text-anchor="middle" fill="#111827" font-size="16" font-weight="700">
+<tspan x="1050.0" dy="0">剪辑生产层</tspan>
+</text>
+<text x="1050.0" y="336" text-anchor="middle" fill="#6b7280" font-size="12.5" font-weight="400">
+<tspan x="1050.0" dy="0">生成剪映草稿</tspan>
+<tspan x="1050.0" dy="17">配音、字幕、BGM 一起准备</tspan>
+</text>
+</g>
+  <g>
+<rect x="220" y="500" width="260" height="96" rx="14" ry="14" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1.6"/>
+<text x="350.0" y="531" text-anchor="middle" fill="#111827" font-size="16" font-weight="700">
+<tspan x="350.0" dy="0">文案优化层</tspan>
+</text>
+<text x="350.0" y="556" text-anchor="middle" fill="#6b7280" font-size="12.5" font-weight="400">
+<tspan x="350.0" dy="0">把文案说人话</tspan>
+<tspan x="350.0" dy="17">减少 AI 味，保留口语感</tspan>
+</text>
+</g>
+  <g>
+<rect x="500" y="500" width="260" height="96" rx="14" ry="14" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.6"/>
+<text x="630.0" y="531" text-anchor="middle" fill="#111827" font-size="16" font-weight="700">
+<tspan x="630.0" dy="0">发布包装层</tspan>
+</text>
+<text x="630.0" y="556" text-anchor="middle" fill="#6b7280" font-size="12.5" font-weight="400">
+<tspan x="630.0" dy="0">生成小红书文案</tspan>
+<tspan x="630.0" dy="17">标题、正文、标签一次备好</tspan>
+</text>
+</g>
+  <g>
+<rect x="780" y="500" width="260" height="96" rx="14" ry="14" fill="#f0fdfa" stroke="#ccfbf1" stroke-width="1.6"/>
+<text x="910.0" y="531" text-anchor="middle" fill="#111827" font-size="16" font-weight="700">
+<tspan x="910.0" dy="0">封面生成层</tspan>
+</text>
+<text x="910.0" y="556" text-anchor="middle" fill="#6b7280" font-size="12.5" font-weight="400">
+<tspan x="910.0" dy="0">生成封面图</tspan>
+<tspan x="910.0" dy="17">人工点击后本地回显</tspan>
+</text>
+</g>
+  <path d="M 640 216 L 640 246 L 210 246 L 210 272" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  <path d="M 640 216 L 640 246 L 490 246 L 490 272" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  <path d="M 640 216 L 640 246 L 770 246 L 770 272" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  <path d="M 640 216 L 640 246 L 1050 246 L 1050 272" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  <path d="M 640 216 L 640 466 L 350 466 L 350 492" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  <path d="M 640 216 L 640 466 L 630 466 L 630 492" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  <path d="M 640 216 L 640 466 L 910 466 L 910 492" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow-blue)"/>
+  <rect x="145" y="650" width="990" height="58" rx="16" ry="16" fill="#ffffff" stroke="#d1d5db" stroke-width="1.6" stroke-dasharray="6,5"/>
+  <text x="640" y="686" text-anchor="middle" fill="#6b7280" font-size="16" font-weight="700">
+<tspan x="640" dy="0">统一原则：先判断值不值得做，再写好旁白，最后剪辑、检查、包装发布</tspan>
+</text>
+</svg>
