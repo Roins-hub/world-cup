@@ -1,0 +1,4 @@
+interface:
+  display_name: "World Cup Scriptwriter"
+  short_description: "Human World Cup scripts for short video"
+  default_prompt: "Use $world-cup-scriptwriter to turn a World Cup fixture into a non-generic short-video script."

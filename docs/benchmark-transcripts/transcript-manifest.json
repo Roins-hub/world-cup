@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "001-12",
+    "source": "xhs",
+    "title": "C罗",
+    "author_or_channel": "KJTS",
+    "url": "https://www.xiaohongshu.com/explore/6a26d01c000000002200ae57?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 7,
+    "class": "silent_or_subtitle_only",
+    "opening_shape": "no_spoken_hook",
+    "ending_shape": "none",
+    "tags": [
+      "star"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/001-12.json",
+    "has_text": true,
+    "text_excerpt": "字幕by索兰娅"
+  },
+  {
+    "id": "002-7",
+    "source": "xhs",
+    "title": "思路打开｜哈兰德的进球方式不受限",
+    "author_or_channel": "远方的知识认知",
+    "url": "https://www.xiaohongshu.com/explore/6a327d2f00000000060333e3?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 2,
+    "class": "silent_or_subtitle_only",
+    "opening_shape": "no_spoken_hook",
+    "ending_shape": "none",
+    "tags": [
+      "star",
+      "question_hook",
+      "live_energy",
+      "comment_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/002-7.json",
+    "has_text": true,
+    "text_excerpt": "嗯?"
+  },
+  {
+    "id": "003-1",
+    "source": "xhs",
+    "title": "【真实解说】球王梅西帽子戏法！",
+    "author_or_channel": "真实球迷汇",
+    "url": "https://www.xiaohongshu.com/explore/6a3221930000000022008388?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 2375,
+    "class": "twist_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/003-1.json",
+    "has_text": true,
+    "text_excerpt": "好了我们现在医生照相比赛开始阿根廷世界盃小组赛第一轮阿根廷对阵二吉利亚冲二吉利亚把车给到左侧台角解围蒙特尔这下解围的并不远梅西选择过来回减看..."
+  },
+  {
+    "id": "004-3",
+    "source": "xhs",
+    "title": "进球了，进球了，梅西强的可怕",
+    "author_or_channel": "🎬娱圈叨叨叨～",
+    "url": "https://www.xiaohongshu.com/explore/6a31f6af000000000f01c6a2?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 146,
+    "class": "live_match_commentary",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/004-3.json",
+    "has_text": true,
+    "text_excerpt": "那么这两个赛季最重要的一个原因就是受伤实在是太多了包括大家现在看到梅西车子中场对吧这个是历来的阿公迪的一个战术打法他是现在视频八稳的时候梅西..."
+  },
+  {
+    "id": "005-2",
+    "source": "xhs",
+    "title": "阿根廷VS阿尔及利亚16分钟梅西远射破门",
+    "author_or_channel": "世界杯瞬间",
+    "url": "https://www.xiaohongshu.com/explore/6a31f72f000000002100b902?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 335,
+    "class": "live_match_commentary",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/005-2.json",
+    "has_text": true,
+    "text_excerpt": "現在四平八穩的時候梅西是相應策畏智中了來了關鍵位置打球之後看看梅西的選擇可以自己來一招打牌這球進了這個進球毫無問題梅西的第14例世界盃進球來..."
+  },
+  {
+    "id": "006-4",
+    "source": "xhs",
+    "title": "“散步”的梅西是如何踢球的！",
+    "author_or_channel": "越位指南",
+    "url": "https://www.xiaohongshu.com/explore/6a2cb2ac000000000702487d?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 0,
+    "class": "silent_or_subtitle_only",
+    "opening_shape": "no_spoken_hook",
+    "ending_shape": "none",
+    "tags": [
+      "star"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/006-4.json",
+    "has_text": false,
+    "text_excerpt": ""
+  },
+  {
+    "id": "007-5",
+    "source": "xhs",
+    "title": "早起解说完阿根廷VS阿尔及利亚",
+    "author_or_channel": "范志毅",
+    "url": "https://www.xiaohongshu.com/explore/6a32774f000000001101d5f6?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 407,
+    "class": "live_match_commentary",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/007-5.json",
+    "has_text": true,
+    "text_excerpt": "你不能說它是木把某種程度看它是壯先無本我覺得後無來者我覺得對於梅希來說不是幾成的功力她想發幾成達到什麼樣的預期她就做到了覺得自己喜歡的球隊能..."
+  },
+  {
+    "id": "008-6",
+    "source": "xhs",
+    "title": "哈兰德的进球方式 总是让人意想不到！",
+    "author_or_channel": "发财兔钓娱",
+    "url": "https://www.xiaohongshu.com/explore/6a320d550000000017029e22?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 157,
+    "class": "live_match_commentary",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/008-6.json",
+    "has_text": true,
+    "text_excerpt": "哈兰德太牛了世界比手秀就拿下两个进球作为名场面制造者第二球被门将拦住但是打到哈兰德的腿又进门了进了两球的哈兰德嘴角都憋不住了回护以前哈兰德的..."
+  },
+  {
+    "id": "009-9",
+    "source": "xhs",
+    "title": "发明越位的人真的是一个天才",
+    "author_or_channel": "玩梗风向标",
+    "url": "https://www.xiaohongshu.com/explore/6a3153f3000000001702b5d6?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 177,
+    "class": "general_narrative",
+    "opening_shape": "value_or_attitude_claim",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/009-9.json",
+    "has_text": true,
+    "text_excerpt": "當你越位的真是個人才用錯來講越位就是你不能把球團給比對方球員具體體現第二進的區域的隊友判斷是否越位就看傳球的一瞬間如果你還不明白我將用最直白..."
+  },
+  {
+    "id": "010-10",
+    "source": "xhs",
+    "title": "逆境之王！C罗的那一晚这一脚",
+    "author_or_channel": "看台长凳观赛",
+    "url": "https://www.xiaohongshu.com/explore/6a2e449f000000002103f1c2?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 300,
+    "class": "emotional_time_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/010-10.json",
+    "has_text": true,
+    "text_excerpt": "那一晚这一角究竟要值几个亿能拿到完美到极致的狂陷攻入球门那一瞬间不仅打得逗游军团绝望更打得全世界多少人心碎看到德克亚摆出一副自以为是的守门姿..."
+  },
+  {
+    "id": "011-11",
+    "source": "xhs",
+    "title": "裁判视角看梅西超远世界波",
+    "author_or_channel": "热血体育报",
+    "url": "https://www.xiaohongshu.com/explore/6a320c020000000007022d9d?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 68,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "mistake"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/011-11.json",
+    "has_text": true,
+    "text_excerpt": "对 这个问题出得太大了刚刚看是不打围啊中间这次想要去铲这个球路但是你失去了位置 又摔倒了给到了一个比较大的进去前的空档Luca 其他内容"
+  },
+  {
+    "id": "012-13",
+    "source": "xhs",
+    "title": "阿根廷3-0阿尔及利亚，梅西三球，全场集锦",
+    "author_or_channel": "追球日记",
+    "url": "https://www.xiaohongshu.com/explore/6a32141c0000000008030695?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 2229,
+    "class": "twist_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/012-13.json",
+    "has_text": true,
+    "text_excerpt": "世界盃的氛围和整个感受已经整体的被轰托起来了也是期待的今天两阶队能有一个好的发挥随着来自波兰的主裁犯马琴亚克的一生少想2026年美加摩世界盃..."
+  },
+  {
+    "id": "013-14",
+    "source": "xhs",
+    "title": "【真解说球】葡萄牙爆冷平刚果！",
+    "author_or_channel": "真实球迷汇",
+    "url": "https://www.xiaohongshu.com/explore/6a33bc0e00000000110186e4?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 2471,
+    "class": "twist_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/013-14.json",
+    "has_text": true,
+    "text_excerpt": "葡萄牙要完了必废必袭罗格必须把你们拖到退役朋友们好我是小真就在今天凌晨我最尽爱亲爱可爱的小阿又歇菜了我原本是多么想本界世界为对你寓意先扬先进..."
+  },
+  {
+    "id": "014-16",
+    "source": "xhs",
+    "title": "美加墨世界杯，内马尔戴帽，摩洛哥战平巴西",
+    "author_or_channel": "足球之家",
+    "url": "https://www.xiaohongshu.com/explore/6a2df0c00000000007028b94?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 1622,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/014-16.json",
+    "has_text": true,
+    "text_excerpt": "这就是世界杯四墙的含金量吗纯粹的摩洛哥人半场时间把五星巴西压着再踢薩依瓦尔先发之人维尼修斯世界部破门摩洛哥用实际行动证明世界杯四墙的含金量欧..."
+  },
+  {
+    "id": "015-15",
+    "source": "xhs",
+    "title": "英超最佳球员的标准来衡量 本场表现如何？",
+    "author_or_channel": "足球元素",
+    "url": "https://www.xiaohongshu.com/explore/6a3410bb0000000006023841?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 324,
+    "class": "live_match_commentary",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "question_hook",
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/015-15.json",
+    "has_text": true,
+    "text_excerpt": "一...廢...把球傳給裁判兩手一攤難道怪裁判沒有接球?用外腳背傳過頂球沒能過頂助發腳球又高又慢傳給了對方門將在本方進行裡把球進出三米開外差..."
+  },
+  {
+    "id": "016-18",
+    "source": "xhs",
+    "title": "C罗0射正！五盾军团全场梦游！",
+    "author_or_channel": "卓耀足球",
+    "url": "https://www.xiaohongshu.com/explore/6a3300040000000016027f4e?xsec_token=REDACTED&xsec_source=pc_search",
+    "char_count": 1508,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/xhs/transcripts/016-18.json",
+    "has_text": true,
+    "text_excerpt": "又是一场令人冲入结舌的今天大佬们斯罗全场战装门前屡势良机11欧的葡萄牙惨遭民主钢果顽强比拼在前球迷口中的争贯大热门整场比赛毫无战术可言41岁..."
+  },
+  {
+    "id": "001-QqD5jAtG-6I",
+    "source": "youtube",
+    "title": "17年後再相遇：梅西與昔日隊友之子的溫馨瞬間#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=QqD5jAtG-6I",
+    "char_count": 319,
+    "class": "emotional_time_story",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/001-QqD5jAtG-6I.json",
+    "has_text": true,
+    "text_excerpt": "在阿根廷对冰岛的比赛结束时梅西意识到自己正在与一位昔日队友的儿子同场竞技时他做出了这样的反应这场比赛一三比零结束在近八万八千名观众面前进行比..."
+  },
+  {
+    "id": "002-Bl9hk6ZRB_o",
+    "source": "youtube",
+    "title": "守門員一個低級的失誤細節，親手送走全隊辛辛苦苦拼來的希望#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=Bl9hk6ZRB_o",
+    "char_count": 195,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/002-Bl9hk6ZRB_o.json",
+    "has_text": true,
+    "text_excerpt": "比赛最后关头门将在门线上极限就险但却发生了一件诡异的事情裁判竟然当场判定进球有效理由是他的智能手表突然发出震动提示当即判定进球成立初看回放画..."
+  },
+  {
+    "id": "003-blTqGtCS-vE",
+    "source": "youtube",
+    "title": "\"The Peak of Human Footballing Skill!\" #Sports #Football",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/blTqGtCS-vE",
+    "char_count": 375,
+    "class": "star_micro_story",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "question_hook",
+      "live_energy",
+      "comment_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/003-blTqGtCS-vE.json",
+    "has_text": true,
+    "text_excerpt": "為什麼說梅西才是技術天花板盡頭一當蘇亞雷斯拿球後此時梅西在這裡注意看這名球員瞄了一下梅西的站位他斷定皮球一定會傳給梅西這時候梅西假裝身腿回撤..."
+  },
+  {
+    "id": "003-gOf7a1x2O9k",
+    "source": "youtube",
+    "title": "這是什麼離譜操作？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=gOf7a1x2O9k",
+    "char_count": 182,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "replay_reveal",
+      "mistake",
+      "question_hook",
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/003-gOf7a1x2O9k.json",
+    "has_text": true,
+    "text_excerpt": "这名白衣球员在门线上极限把球解围还以为自己整住了全队现场观众瞬间全部沸腾所有人都以为他完成了足以风神的极限门线就险只有队友们满枪目火不理解他..."
+  },
+  {
+    "id": "004-4mrE991YMuw",
+    "source": "youtube",
+    "title": "「足壇暖心時刻！小球迷因為口音被嘲笑，C羅直接出面製止！”#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=4mrE991YMuw",
+    "char_count": 245,
+    "class": "emotional_time_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/004-4mrE991YMuw.json",
+    "has_text": true,
+    "text_excerpt": "不要嘲笑每个孩子的梦想也许这就是我们喜欢斯罗的原因2014年斯罗到访日本参加活动现场一名六年级的小男孩为了能和斯罗对话补练了很久葡萄牙语终于..."
+  },
+  {
+    "id": "004-PcVXpYFdYEI",
+    "source": "youtube",
+    "title": "A referee was unexpectedly injured, and a fan actually stepped in to officiate the game! #Sports ...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/PcVXpYFdYEI",
+    "char_count": 228,
+    "class": "clip_commentary",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/004-PcVXpYFdYEI.json",
+    "has_text": true,
+    "text_excerpt": "编材被提求击中了头顾接下来发生的事情完全出人意料他突然感到头晕目眩无法继续执法比赛比赛也因此暂停了14分钟而此时恰恰需要一位第四裁判顶上就在..."
+  },
+  {
+    "id": "005-5MMGEZWCZZk",
+    "source": "youtube",
+    "title": "橫空出世的天才#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=5MMGEZWCZZk",
+    "char_count": 209,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/005-5MMGEZWCZZk.json",
+    "has_text": true,
+    "text_excerpt": "俱罗单手指挥队友直载传球传球线路恰到好处然而对于俱罗来说这就是个直面门匠的逼近球但是俱罗并未选择射门他先是左脚移扣竟让足球往对手方向走这个线..."
+  },
+  {
+    "id": "005-RPwn8dnp9Hk",
+    "source": "youtube",
+    "title": "Is France the Most Dangerous Title Favorite? #Sports #Soccer",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/RPwn8dnp9Hk",
+    "char_count": 386,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/005-RPwn8dnp9Hk.json",
+    "has_text": true,
+    "text_excerpt": "今年世界盃可千万不要买法国队众所周知本届美加莫世界盃的48只球队里法国队可以说是那只问题最大的球队奥利塞 邓贝莱和姆巴佩三人都各自心怀鬼态都..."
+  },
+  {
+    "id": "006-oK1GuoijDtk",
+    "source": "youtube",
+    "title": "梅西讓點背後淚目瞬間：當傳奇選擇團隊，而不是紀錄#梅西#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=oK1GuoijDtk",
+    "char_count": 349,
+    "class": "twist_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/006-oK1GuoijDtk.json",
+    "has_text": true,
+    "text_excerpt": "你有没有注意到梅西的那个手势他本可以自己主罚那个点球但他却选择放弃阿根廷无比零大胜对手这本应该是一场简单的庆祝但镜头却捕捉到了另一个画面梅西..."
+  },
+  {
+    "id": "007-Cne03IQJgrE",
+    "source": "youtube",
+    "title": "森保一在場邊用只有數字的巨大戰術板向球員傳遞指令?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=Cne03IQJgrE",
+    "char_count": 302,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/007-Cne03IQJgrE.json",
+    "has_text": true,
+    "text_excerpt": "有能名帅曾宝仪之下又整新火了在與荷蘭隊的世界杯小組賽中曾宝監督多次在場邊舉起協有數字的巨大戰術版給場上的球員傳遞指令原因是這屆杯塞禁止球員無..."
+  },
+  {
+    "id": "008-TMTYVuw9ibM",
+    "source": "youtube",
+    "title": "主教練要求換人，球員卻拒絕下場，最後竟完成了進球?！#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=TMTYVuw9ibM",
+    "char_count": 246,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/008-TMTYVuw9ibM.json",
+    "has_text": true,
+    "text_excerpt": "你见过教练换人但球员拒绝下场的比赛吗比赛进入尾声阶段赛内加尔一名9号球员非要操刀关键点球场面主教练健壮瞬间怒火中天这支队伍在前早已敲定专属点..."
+  },
+  {
+    "id": "009-6gaFmicoBiw",
+    "source": "youtube",
+    "title": "失誤連連助梅西加冕世界杯射手王！齊達內真對兒子的表現失望了#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=6gaFmicoBiw",
+    "char_count": 317,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "mistake",
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/009-6gaFmicoBiw.json",
+    "has_text": true,
+    "text_excerpt": "齊達內這下是真看不下去自己兒子的表現了在阿爾吉利亞與阿根廷隊的世界盃小組賽中盧卡齊達內成了梅西登頂世界盃歷史射手榜的背景版他上半場先是因為鋪..."
+  },
+  {
+    "id": "010-Ae7Og2vQP-s",
+    "source": "youtube",
+    "title": "葡萄牙被逼平的關鍵一幕，C羅當場和門將科斯塔產生分歧?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=Ae7Og2vQP-s",
+    "char_count": 349,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "replay_reveal",
+      "question_hook",
+      "comment_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/010-Ae7Og2vQP-s.json",
+    "has_text": true,
+    "text_excerpt": "佛陶芽对阵钢国的比赛结束之后场上一个镜头迅速在外网炸开被无数球迷讨论那就是C罗和门将迪奥哥克斯塔的这一次短暂交流这场比赛最终定格成平局佛陶芽..."
+  },
+  {
+    "id": "010-RbwbNzRj_zU",
+    "source": "youtube",
+    "title": "This is absolutely insane! Two players actually pulled off an impossible double bicycle kick goal...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/RbwbNzRj_zU",
+    "char_count": 251,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/010-RbwbNzRj_zU.json",
+    "has_text": true,
+    "text_excerpt": "这绝对是足球史上再也无法复刻地进球脚球开出后的第一脚弓门被舒梅切尔分立破捉此时进攻球员恰好冲到门前面对倒地的门将和无人把守的通门他的身体却意..."
+  },
+  {
+    "id": "011-WfkdcXnGUUI",
+    "source": "youtube",
+    "title": "這又是什麼迷之操作？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=WfkdcXnGUUI",
+    "char_count": 177,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "replay_reveal",
+      "mistake",
+      "question_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/011-WfkdcXnGUUI.json",
+    "has_text": true,
+    "text_excerpt": "当主裁判亮出红牌将这群球员发出躺食这群球员直接脱下球衣套给看牌满心期待的球迷已然做好告别本场赛事的准备随时视频回放进入复合后剧情出现反转裁判..."
+  },
+  {
+    "id": "012-U16b3elR24Q",
+    "source": "youtube",
+    "title": "外媒評選世界盃歷史最佳十一人陣容#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=U16b3elR24Q",
+    "char_count": 478,
+    "class": "emotional_time_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/012-U16b3elR24Q.json",
+    "has_text": true,
+    "text_excerpt": "王Football日前发布了由球迷在设媒投票选出的世界杯历史最佳十一人阵容然而不少传奇球员落选使得该阵容更像是近30年世界杯的最佳评选结果门..."
+  },
+  {
+    "id": "013-fWZXeTfAlDw",
+    "source": "youtube",
+    "title": "曾經的絕代雙驕，暮年差距越來越大?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=fWZXeTfAlDw",
+    "char_count": 1165,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/013-fWZXeTfAlDw.json",
+    "has_text": true,
+    "text_excerpt": "对手其实谈不上对手是说好的这件事业碑是中神皇患怎么就只有五罗哥一个人皇后呢报道雅潇的赛手为何塞罗全场梦游被免主刚国暴露冷批评而阿根廷节目战3..."
+  },
+  {
+    "id": "014-Y0DWK7_ygB4",
+    "source": "youtube",
+    "title": "正因為這記進球，讓世界強隊都要忌憚日本足球#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=Y0DWK7_ygB4",
+    "char_count": 205,
+    "class": "clip_commentary",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/014-Y0DWK7_ygB4.json",
+    "has_text": true,
+    "text_excerpt": "正是这季决杀进球让一众世界强队从损季弹日本难足在前夜过磨坚硬皮球之时对方整高防守阵线早已收索死守进区和皮球依旧沿着狭小空隙分向底线所有人都以..."
+  },
+  {
+    "id": "015-ejkI6HkC8oI",
+    "source": "youtube",
+    "title": "從顯眼包變真法寶！勞塔羅不辜負的雙向奔赴#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=ejkI6HkC8oI",
+    "char_count": 475,
+    "class": "twist_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/015-ejkI6HkC8oI.json",
+    "has_text": true,
+    "text_excerpt": "當梅西在獨冠慶典上黑袍加身時有一個人羨慕到新洋洋他不是別人正是梅西的隊友老塔羅後來老塔羅也搞到一件黑袍只是梅西穿著向球王登機而塔羅穿著向法老..."
+  },
+  {
+    "id": "016-RYI3Qwy1Z4Q",
+    "source": "youtube",
+    "title": "梅西憑什麼贏得整個阿根廷的尊重？這些容易忽略的細節說明了一切#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=RYI3Qwy1Z4Q",
+    "char_count": 622,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/016-RYI3Qwy1Z4Q.json",
+    "has_text": true,
+    "text_excerpt": "梅西為什麼會贏得阿根廷足壇上上下下的尊敬答案就藏在這些細節裡世界被首次上演帽子洗髮梅西沒有自吹自擂而是慶幸能夠比一件巴迪斯圖塔的成就命令自己..."
+  },
+  {
+    "id": "017-jRQPn5ISLDE",
+    "source": "youtube",
+    "title": "難怪堅持不換下C羅！原來葡萄牙主帥的後路早就鋪好了#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=jRQPn5ISLDE",
+    "char_count": 233,
+    "class": "twist_story",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "replay_reveal",
+      "mistake",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/017-jRQPn5ISLDE.json",
+    "has_text": true,
+    "text_excerpt": "难怪死活不肯换C罗下场原来葡萄牙主摔的后路早就已经铺好今天多位记者确认原来马丁内斯在世界杯开打之前就已经偷偷和C罗所在的利雅德胜利开启指教谈..."
+  },
+  {
+    "id": "018-yiizD8Oc-3k",
+    "source": "youtube",
+    "title": "“c羅啞火！葡萄牙1比1平民主剛果”#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=yiizD8Oc-3k",
+    "char_count": 403,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "question_hook",
+      "live_energy",
+      "comment_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/018-yiizD8Oc-3k.json",
+    "has_text": true,
+    "text_excerpt": "為什麼今天的葡萄牙替得如此難看其實從熱身賽就能看出端倪鏡頭一在對著尼日利亞的比賽中葡萄牙打出快速反擊賽沒多邊路快速推進注意看此時羅總的跑位他..."
+  },
+  {
+    "id": "019-6hH0PUghMdI",
+    "source": "youtube",
+    "title": "兜兜轉轉，回頭一看，王座上的依然是梅西！#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=6hH0PUghMdI",
+    "char_count": 417,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/019-6hH0PUghMdI.json",
+    "has_text": true,
+    "text_excerpt": "为什么说即便姆巴佩哈兰德双双美开耳朵新生待火力全开任凭后辈 锋芒万丈至高往左至上毅力鼓动的依旧是球王梅西阿根廷美加莫世界杯手战对战阿尔吉利亚..."
+  },
+  {
+    "id": "020-UpZpumbYioA",
+    "source": "youtube",
+    "title": "美加墨共13位35歲以上門將登場！為何守門員都是越老越妖？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=UpZpumbYioA",
+    "char_count": 1200,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/020-UpZpumbYioA.json",
+    "has_text": true,
+    "text_excerpt": "守门员这个职业是越挠越厉害为什么门将是足球场上15年6月影响最小的位置是世界盃小组赛手军结束48支球队全部亮相共有13位35岁以上的门将登场..."
+  },
+  {
+    "id": "021-HFkiqMUXtTk",
+    "source": "youtube",
+    "title": "這就是為什麼日本隊是亞洲第一?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=HFkiqMUXtTk",
+    "char_count": 411,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "question_hook",
+      "live_energy",
+      "comment_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/021-HFkiqMUXtTk.json",
+    "has_text": true,
+    "text_excerpt": "为什么日本足球能卖入世界顶级行列镜头一 在对阵英格兰的比赛中帕尔莫戴球遭遇日本队团队逼抢三山勋从身后完成抢断接下来以他为进攻中途的反击简直就..."
+  },
+  {
+    "id": "022-KYEMupbhV5Y",
+    "source": "youtube",
+    "title": "世界盃是球員的夢想嗎？這就是答案......#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=KYEMupbhV5Y",
+    "char_count": 522,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/022-KYEMupbhV5Y.json",
+    "has_text": true,
+    "text_excerpt": "世界杯是球员的梦想吗这就是答案当正在度假的赛内西得知自己地步国家瑞士他没有质问当初为什么不征兆也没有觉得球队出事了才相信他的情绪早已无法压制..."
+  },
+  {
+    "id": "023-I_hb-wsCTSA",
+    "source": "youtube",
+    "title": "為什麼僅憑一場比賽，就讓他收穫上千萬粉絲?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=I_hb-wsCTSA",
+    "char_count": 950,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/023-I_hb-wsCTSA.json",
+    "has_text": true,
+    "text_excerpt": "为什么景品一场比赛就能让他的社媒粉丝暴涨到1000多万甚至在全网刷屏说实话让我深受感动的不是他高阶低档林峰了西班牙而是一个草根为了守护导国足..."
+  },
+  {
+    "id": "023-saqG3H86TgM",
+    "source": "youtube",
+    "title": "When Collina, the referee with the eagle eye, returns to the pitch, his gaze alone is enough to k...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/saqG3H86TgM",
+    "char_count": 232,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "mistake",
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/023-saqG3H86TgM.json",
+    "has_text": true,
+    "text_excerpt": "十多多年 当柯李娜的身影再次出现在球员通道时那双如阴损般瑞丽的眼神依旧带着能洞穿一切的压迫感即便场边站满了足弹传奇她仍是四代压肘气场的存在无..."
+  },
+  {
+    "id": "024-P3G_lRwAB6o",
+    "source": "youtube",
+    "title": "If only one person could lift the trophy this summer, which star player would you vote for? #Spor...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/P3G_lRwAB6o",
+    "char_count": 400,
+    "class": "emotional_time_story",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/024-P3G_lRwAB6o.json",
+    "has_text": true,
+    "text_excerpt": "如果指定一個人在今下可以捧起那座世界杯冠軍你最希望是誰是那個滿身傷痕卻在絕境中壓少富裕是要用一座金杯撫平巴西所有熱淚的追夢人魅馬爾是那個將整..."
+  },
+  {
+    "id": "024-Z3aNkGaGcdc",
+    "source": "youtube",
+    "title": "明明拖累全隊，主帥馬丁內斯賽後卻狂吹C羅?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=Z3aNkGaGcdc",
+    "char_count": 1117,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/024-Z3aNkGaGcdc.json",
+    "has_text": true,
+    "text_excerpt": "罗伯特 马丁那次你是不懂球吗明让人都能看出来现在的斯罗完全是在拖累葡萄牙从两年前的欧洲碑开始罗克就已经不适合打手发了跟主角俩马丁那次不仅让斯..."
+  },
+  {
+    "id": "025-zAWJiIpCejg",
+    "source": "youtube",
+    "title": "賽後連夜被「趕出美國」！為了參加世界杯，伊朗隊有多不容易？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=zAWJiIpCejg",
+    "char_count": 1012,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/025-zAWJiIpCejg.json",
+    "has_text": true,
+    "text_excerpt": "伊朗球员竟然敢在美国主场开枪火腻了嘛这是伊朗8号球员莫克比进球户的庆祝动作他比划着开枪的手势穿着美国人的看台连续点射乍一看确实有些倒反天纲但..."
+  },
+  {
+    "id": "026-IpT8FKrsxLs",
+    "source": "youtube",
+    "title": "梅西戴帽世界盃27場16球，與克洛澤並列歷史射手榜?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=IpT8FKrsxLs",
+    "char_count": 222,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/026-IpT8FKrsxLs.json",
+    "has_text": true,
+    "text_excerpt": "三十四岁的那马尔在场下戴帽三十九岁的梅兮在场上戴帽什么叫炸裂就在今天世界杯巨头守门阿登廷迎战阿尔吉利亚梅兮一人狂轰三成直接把比赛打成个人记录..."
+  },
+  {
+    "id": "027-yloeA8wIlLU",
+    "source": "youtube",
+    "title": "得勢不得分控球不贏球！西班牙為什麼總是爆冷？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=yloeA8wIlLU",
+    "char_count": 1032,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/027-yloeA8wIlLU.json",
+    "has_text": true,
+    "text_excerpt": "西班牙队为什么总是出现这种超级大拢门作为非法评明世界第三总升价12.2亿欧元的豪门球队西班牙在小组赛第一轮提评了第一次入选失业碑正赛总升价仅..."
+  },
+  {
+    "id": "028-46nml20t1GI",
+    "source": "youtube",
+    "title": "“梅西生涯首個帽子戲法！”#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=46nml20t1GI",
+    "char_count": 389,
+    "class": "twist_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "replay_reveal",
+      "live_energy",
+      "comment_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/028-46nml20t1GI.json",
+    "has_text": true,
+    "text_excerpt": "技術解剖 梅西手跟帽的系法鏡頭一巴薩打出精彩配合連續的小範圍撞牆撕裂黃馬防線哀托奧送出致命異傳梅西拍馬趕到一錘定音鏡球後的阿根廷仁也是激情的..."
+  },
+  {
+    "id": "028-DzY72ejkFt4",
+    "source": "youtube",
+    "title": "This is the ultimate glory that belongs only to defenders! #Sports #Football",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/DzY72ejkFt4",
+    "char_count": 193,
+    "class": "clip_commentary",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "live_energy"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/028-DzY72ejkFt4.json",
+    "has_text": true,
+    "text_excerpt": "能将放弃守门的一瞬间对手的投球已经赢上了高速飞行的足球防守球员拼尽全力的解围不过是为球队抢回了转瞬其事的喘息之际紧接着他与双臂撑地稳住身形目..."
+  },
+  {
+    "id": "029-E2zw9Bva6bQ",
+    "source": "youtube",
+    "title": "In so much pain he can't even take off his goalkeeper gloves! Is Emi Martinez's fractured finger ...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/E2zw9Bva6bQ",
+    "char_count": 315,
+    "class": "twist_story",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "replay_reveal"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/029-E2zw9Bva6bQ.json",
+    "has_text": true,
+    "text_excerpt": "大马丁这下真的麻烦大了他在欧联决赛前遭遇骨折的右手无名指显然还没有完全恢复在阿根廷队近期的一堂训练课中大马丁虽然也在进行有球训练但可以看出他..."
+  },
+  {
+    "id": "029-_RQNEs_6gqs",
+    "source": "youtube",
+    "title": "葡萄牙不能再只為C羅的紀錄而踢球了?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=_RQNEs_6gqs",
+    "char_count": 981,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/029-_RQNEs_6gqs.json",
+    "has_text": true,
+    "text_excerpt": "看完葡萄牙的小组赛首秀才知道我们都错过来洗半牙了四月落完美全失了什么叫做一小无能类似三军葡萄牙小组赛肩膜战1比1提拼民主甘果也就是我们常说的..."
+  },
+  {
+    "id": "030-uagjvVqIkTU",
+    "source": "youtube",
+    "title": "38歲的梅西世界杯首秀就上演帽子戲法#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=uagjvVqIkTU",
+    "char_count": 1273,
+    "class": "emotional_time_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/030-uagjvVqIkTU.json",
+    "has_text": true,
+    "text_excerpt": "一个38岁老娇凭什么能力压母八辈走哈兰德登顶世界盃射手堡赛后数万球迷更是为他打出9.8的平分他甚至还包拦了微博前时热搜的行中舞蹈因为梅西又进..."
+  },
+  {
+    "id": "031-9n8O_uYgH80",
+    "source": "youtube",
+    "title": "法國隊世界盃大本營曝光#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=9n8O_uYgH80",
+    "char_count": 586,
+    "class": "general_narrative",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/031-9n8O_uYgH80.json",
+    "has_text": true,
+    "text_excerpt": "來看看法國隊世界盃期間在美國波士頓的豪華訓練基地當地時間6月11日週四下午法國隊空降本特利大學為了迎接他們的到來學校提前數月開工不僅翻新了天..."
+  },
+  {
+    "id": "032-DQwMo_4N6R8",
+    "source": "youtube",
+    "title": "球場暖心瞬間#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=DQwMo_4N6R8",
+    "char_count": 197,
+    "class": "general_narrative",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "emotional_payoff",
+    "tags": [],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/032-DQwMo_4N6R8.json",
+    "has_text": true,
+    "text_excerpt": "一位父亲趁儿子不注意悄悄把孩子算在手里的鸡块全部拿走时光吃完后还顾作落无其事的模样四处昭旺假装什么都没发生小朋友低头看着空空的袋子心灵满是委..."
+  },
+  {
+    "id": "033-6eUMoijRwec",
+    "source": "youtube",
+    "title": "世界盃史上有哪些離譜的紅牌？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=6eUMoijRwec",
+    "char_count": 1348,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/033-6eUMoijRwec.json",
+    "has_text": true,
+    "text_excerpt": "史上最严格红牌出现了土耳其与巴拉圭的比赛上漫长最后时刻巴拉圭球员阿尔米龙五折嘴巴和对方交流被主参判直日接红牌发下这是本次美加莫的最新规则球员..."
+  },
+  {
+    "id": "034-UkJ6UkVdNRw",
+    "source": "youtube",
+    "title": "亞洲之光！日本隊4-0大勝送突尼斯出局#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=UkJ6UkVdNRw",
+    "char_count": 349,
+    "class": "clip_commentary",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/034-UkJ6UkVdNRw.json",
+    "has_text": true,
+    "text_excerpt": "不愧于亚洲之光的称号日本队四球横扫都尼斯闪耀美加莫世界盃F组第二轮日本队队阵都尼斯日本队分别凭借连天大地一通纯野的进球以及上天启示的梅开尔都..."
+  },
+  {
+    "id": "035-lndoqoOVdkk",
+    "source": "youtube",
+    "title": "西班牙再不拿下沙特會發生什麼?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=lndoqoOVdkk",
+    "char_count": 851,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/035-lndoqoOVdkk.json",
+    "has_text": true,
+    "text_excerpt": "西班牙證明自己的時刻來了世界排名第二全隊身價12.21歐的西班牙對陣世界排名第61全隊身價只有4000萬的沙特如果再次在如此懸殊的實力差距下..."
+  },
+  {
+    "id": "036-la6549DPt2Y",
+    "source": "youtube",
+    "title": "土耳其後衛第一時間投訴對手朝自己捂嘴說話成功造紅?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=la6549DPt2Y",
+    "char_count": 273,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/036-la6549DPt2Y.json",
+    "has_text": true,
+    "text_excerpt": "沸內八切後為米爾迪爾這下真把規則吃透了在決定球隊出現命運的世界盃第二輪小組賽中他與牛卡斯爾就將阿爾米龍在上半場尾聲發生衝突阿爾米龍習慣性地抬..."
+  },
+  {
+    "id": "037--VV6AlQ-FYE",
+    "source": "youtube",
+    "title": "首次參加世界盃的庫拉索，憑什麼能攻破德國隊大門？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=-VV6AlQ-FYE",
+    "char_count": 1269,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/037--VV6AlQ-FYE.json",
+    "has_text": true,
+    "text_excerpt": "库拉索对世界盃1比7惨败德国相当于什么哪相得于我和奥尼尔打篮球虽然我防不着奥尼尔让他得了100分但我就在奥尼尔头上完成了一次格扣比赛输了我没..."
+  },
+  {
+    "id": "038-DoDMffdSomA",
+    "source": "youtube",
+    "title": "Memorable moments from the first day of the World Cup: English listening test & jersey quality in...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/DoDMffdSomA",
+    "char_count": 516,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/038-DoDMffdSomA.json",
+    "has_text": true,
+    "text_excerpt": "世界盃首日名场面在东道主墨西哥主场迎战南非队的节目战中墨西哥队前锋金尼奥内斯在打进本届世界盃的首个进球后复刻了16年前南非队民宿查巴拉拉在节..."
+  },
+  {
+    "id": "038-gSEKs4QLdX8",
+    "source": "youtube",
+    "title": "C羅微笑瞬間引發熱議：巨星與孩子之間的溫柔對視#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=gSEKs4QLdX8",
+    "char_count": 361,
+    "class": "twist_story",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "replay_reveal",
+      "question_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/038-gSEKs4QLdX8.json",
+    "has_text": true,
+    "text_excerpt": "为什么C罗在此行佛陀雅对针亚美尼亚的比赛中会用那样的眼神看向身旁的那个小男孩在这场比赛中C罗和其他球员一样身边都陪有两名儿童球铜据说这些孩子..."
+  },
+  {
+    "id": "039-SYQooFxgGXA",
+    "source": "youtube",
+    "title": "C羅唯一沒關注的俱樂部曝光：背後原因終於被揭開#c羅#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=SYQooFxgGXA",
+    "char_count": 355,
+    "class": "emotional_time_story",
+    "opening_shape": "value_or_attitude_claim",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/039-SYQooFxgGXA.json",
+    "has_text": true,
+    "text_excerpt": "这就是C罗关注了所有效力过的俱乐部唯独漏掉一支球队的真正原因一切从葡萄牙体育说起他在这里开启职业生涯十个多年直到今天他依旧关注着这支母队之后..."
+  },
+  {
+    "id": "040-xtBbTGmDOGw",
+    "source": "youtube",
+    "title": "這才是世界盃真正開場！梅西帽子戲法太震撼  #體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=xtBbTGmDOGw",
+    "char_count": 768,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/040-xtBbTGmDOGw.json",
+    "has_text": true,
+    "text_excerpt": "当39岁的梅西在美加摩世界盃首秀中完成帽子细法的那一刻这届此前略显沉闷的赛事才真正迎来了他的节目展阿根廷3比02吉利亚三立进球全部刻着同一个..."
+  },
+  {
+    "id": "041-5B2ThiOjfw0",
+    "source": "youtube",
+    "title": "梅西vsC羅：你更喜歡哪種球星風格？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=5B2ThiOjfw0",
+    "char_count": 354,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "question_hook",
+      "comment_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/041-5B2ThiOjfw0.json",
+    "has_text": true,
+    "text_excerpt": "看 这个女孩伸出手想要和梅西握手但梅西却看了她一眼后选择完全不是女孩笑了但她无法相信自己刚刚被拒绝了在另一场比赛中一名球迷大声喊着自己爱梅西..."
+  },
+  {
+    "id": "042-eb3rRteYnos",
+    "source": "youtube",
+    "title": "C羅也有佛得角血統?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=eb3rRteYnos",
+    "char_count": 1153,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/042-eb3rRteYnos.json",
+    "has_text": true,
+    "text_excerpt": "如果没有佛陀脚就不会有如今的C罗尽管C罗是菩萨亚人但他身上同样流淌着佛陀脚的血统因为C罗的外族就是土生土长的佛陀脚人十到十六岁他才随着家人移..."
+  },
+  {
+    "id": "043-8r4UGHDoGEg",
+    "source": "youtube",
+    "title": "“在遭遇暴雨天氣後，你知道裁判為什麼要把球從高處扔到地上嗎？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=8r4UGHDoGEg",
+    "char_count": 159,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "question_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/043-8r4UGHDoGEg.json",
+    "has_text": true,
+    "text_excerpt": "你知道赛前为什么裁判要把球从高处扔到地上了碰到暴雨过后场地积水的情况裁判都会通过高空落球的方式观察皮球落地回弹的状态要是足球弹起高度明显不对..."
+  },
+  {
+    "id": "044-ZHPjt7ItX50",
+    "source": "youtube",
+    "title": "世界盃賽事前瞻：巴西vs海地！巴西要的是大勝來提升士氣?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=ZHPjt7ItX50",
+    "char_count": 843,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/044-ZHPjt7ItX50.json",
+    "has_text": true,
+    "text_excerpt": "不勝名自己的機會來了世界排名第六全隊升價近11的巴西對陣世界排名第83全隊升價只有5000萬的海地面對實力墊底所謂的漁難隊如果巴西再不能順利..."
+  },
+  {
+    "id": "044-s0PJNuJFViM",
+    "source": "youtube",
+    "title": "Forced suspension of water replenishment, just to add ads! Am I watching the World Cup or the NBA...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/s0PJNuJFViM",
+    "char_count": 1180,
+    "class": "twist_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/044-s0PJNuJFViM.json",
+    "has_text": true,
+    "text_excerpt": "非法答应我下次别让美国再办世界杯了我怕他们把足球比赛改成四季每季间休息两分钟再给厨房各种四散停这样就有更多时间可以加广告了即一场世界杯球组赛..."
+  },
+  {
+    "id": "045-iBqHeKv98y8",
+    "source": "youtube",
+    "title": "英格蘭為什麼會成為世界杯奪冠熱門？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=iBqHeKv98y8",
+    "char_count": 1030,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/045-iBqHeKv98y8.json",
+    "has_text": true,
+    "text_excerpt": "為什麼請憑這一個鏡頭就讓無數女生愛上了足球她更是現役足盤罕見同時擁有顏紙球技和人品的球員一腳無解任力球甚至把黃馬球員踢到絕望她就是英格蘭鐵腰..."
+  },
+  {
+    "id": "046-IVCHATet0Jo",
+    "source": "youtube",
+    "title": "世界盃歷史上有哪些經典的帽子戲法？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=IVCHATet0Jo",
+    "char_count": 1078,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/046-IVCHATet0Jo.json",
+    "has_text": true,
+    "text_excerpt": "阿根廷小組賽首戰3比0 完勝R級利亞美西獨信三球 完成《帽子西法》支持美西生涯世界盃的首次《帽子西法》度射也是世界盃地區上第55次《帽子西法..."
+  },
+  {
+    "id": "046-mlbxCdn5l3E",
+    "source": "youtube",
+    "title": "What level of football is represented by three red cards in the opening match of the World Cup? #...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/mlbxCdn5l3E",
+    "char_count": 775,
+    "class": "twist_story",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "comment_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/046-mlbxCdn5l3E.json",
+    "has_text": true,
+    "text_excerpt": "一场比赛三张红牌是什么概念在墨西哥与南飞的世界杯节目战中作为冻盗主持一的墨西哥2比0击败南飞但场上却输下三张红牌而且三人全都是只红被罚下先来..."
+  },
+  {
+    "id": "047-iA2LC48VLA4",
+    "source": "youtube",
+    "title": "2場比賽62腳射門0進球！土耳其隊提前出局到底輸在哪?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=iA2LC48VLA4",
+    "char_count": 1293,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/047-iA2LC48VLA4.json",
+    "has_text": true,
+    "text_excerpt": "两场比赛 狂空62角生门拿到20个角球升空军控球率百分之715.5结果一球没见还被对方冠了三个这就是欧洲哈尔奇土耳其世界杯前两场球资产的表现..."
+  },
+  {
+    "id": "048-9_ponF2EJQQ",
+    "source": "youtube",
+    "title": "挪威出現卡位戰！法國、阿根廷進球紀錄戰?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=9_ponF2EJQQ",
+    "char_count": 1084,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/048-9_ponF2EJQQ.json",
+    "has_text": true,
+    "text_excerpt": "6月23日即將迎來三場焦點對決首先是這組的阿根廷對陣奧地利本組整體排名差距很明顯阿根廷高居世界第一是本組絕對的霸主與奧地利阿爾吉利亞和約旦這..."
+  },
+  {
+    "id": "049-yNw05HacYYo",
+    "source": "youtube",
+    "title": "為何弱隊總出門神？盤點世界盃上「一戰封神」的門將#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=yNw05HacYYo",
+    "char_count": 991,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/049-yNw05HacYYo.json",
+    "has_text": true,
+    "text_excerpt": "为什么若对自从事出门神世界盃历史上有哪些依仗封神的门将呢将来聊聊本届世界盃小组赛的两大门神库拉索0比0提评俄瓜多尔的比赛中库拉索门将37岁的..."
+  },
+  {
+    "id": "050-PxNb3ZWqKis",
+    "source": "youtube",
+    "title": "2026世界盃首輪最佳陣容出爐#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=PxNb3ZWqKis",
+    "char_count": 445,
+    "class": "star_micro_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/050-PxNb3ZWqKis.json",
+    "has_text": true,
+    "text_excerpt": "知名数据网站Altar评选出2026世界盃首轮最佳11人阵容门疆位置是对战西班牙暴龙B屏全场7次舖就40岁的高灵门神沃琴尼亚左后卫是美丽间的..."
+  },
+  {
+    "id": "051-nVWJzV5rutM",
+    "source": "youtube",
+    "title": "亨利反感C羅十幾年，最後確活成了足壇天花板?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=nVWJzV5rutM",
+    "char_count": 456,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "comment_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/051-nVWJzV5rutM.json",
+    "has_text": true,
+    "text_excerpt": "很多人好奇为什么D.I.李亨利长久以来始终不太欣赏C.罗R9R9是我们的真正的R9ChristianoRonaldo是R9这段两人之间的隔阂..."
+  },
+  {
+    "id": "052-D6CXwy8EqCc",
+    "source": "youtube",
+    "title": "為什麼說只有內馬爾才能拯救現在的巴西隊?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=D6CXwy8EqCc",
+    "char_count": 379,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "replay_reveal",
+      "question_hook",
+      "comment_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/052-D6CXwy8EqCc.json",
+    "has_text": true,
+    "text_excerpt": "为什么说只有内马尔才能拯救巴西队镜头一内马尔的户球技术属历史级看似花里胡哨但慢镜头下别有冻天注意看此时他是背身拿球在对方球员上身体后他依旧有..."
+  },
+  {
+    "id": "053-jDqQZW_DnHU",
+    "source": "youtube",
+    "title": "How outrageous are the height restrictions at Camp Nou? #Sports #Football",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/jDqQZW_DnHU",
+    "char_count": 518,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/053-jDqQZW_DnHU.json",
+    "has_text": true,
+    "text_excerpt": "为什么仅凭这一个镜头就让无数人深夜破法当贝尔在第80分钟历压巴萨后卫投球破门完成绝杀但现场主才竟然判罚了贝尔在征定时提前反规他认为贝尔在空中..."
+  },
+  {
+    "id": "053-y94S4dm1mKQ",
+    "source": "youtube",
+    "title": "世界盃正被資本徹底綁架?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=y94S4dm1mKQ",
+    "char_count": 1092,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/053-y94S4dm1mKQ.json",
+    "has_text": true,
+    "text_excerpt": "国际组连正一步步毁掉世界杯他们奉行资本之上和正的双标这项赛事已经不纯粹了其中最直接的就体现在门票价格上2022年卡塔尔决赛门票为500-16..."
+  },
+  {
+    "id": "054-LR8OBIz3MNA",
+    "source": "youtube",
+    "title": "德國的黃金一代真的要來了嗎?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=LR8OBIz3MNA",
+    "char_count": 383,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/054-LR8OBIz3MNA.json",
+    "has_text": true,
+    "text_excerpt": "德国人的黄金一代终于来了相信看完德国对正库巴西比赛的人都会有这种感叹不同于2022年卡塔尔世界杯上的那只日耳曼脑爷车这次德国人祭出了一套青春..."
+  },
+  {
+    "id": "055-0Gr-ZXo6q_4",
+    "source": "youtube",
+    "title": "你知道為什麼佩佩是C羅最好的朋友嗎？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=0Gr-ZXo6q_4",
+    "char_count": 317,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "comment_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/055-0Gr-ZXo6q_4.json",
+    "has_text": true,
+    "text_excerpt": "你知道为什么佩佩是C罗最好的朋友吗在一场比赛中C罗准备争顶投球但对方球员抢先一步不小心击中了他的掩护佩佩看到这一幕后显得非常愤怒最后在一次对..."
+  },
+  {
+    "id": "056-nX4KhUhz9sU",
+    "source": "youtube",
+    "title": "高盧雄雞竟將這位中場超新星白送摩洛哥#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=nX4KhUhz9sU",
+    "char_count": 375,
+    "class": "general_narrative",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/056-nX4KhUhz9sU.json",
+    "has_text": true,
+    "text_excerpt": "摩洛哥队这下真的挖到宝了上个月才决定代表他们出战的里尔中场新星波阿迪近在于五星巴西的世界杯手秀上就交出了统治级表现他顶级的抗压于摆脱能力让巴..."
+  },
+  {
+    "id": "057-dLPFCi4sme8",
+    "source": "youtube",
+    "title": "Are they even going to play? England's World Cup gear stolen, only one ball left? #sports #football",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/dLPFCi4sme8",
+    "char_count": 315,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/057-dLPFCi4sme8.json",
+    "has_text": true,
+    "text_excerpt": "还踢个锤子的足球啊英格兰队世界杯物资被盗球鞋装备只剩一个足球据英国媒体《每日邮报》獨家报道英格兰队在世界杯备战过程中遭遇了一期重大的盗鞋大批..."
+  },
+  {
+    "id": "057-woArJe0penE",
+    "source": "youtube",
+    "title": "克洛普犀利揭穿世界盃補水就是為了塞廣告#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=woArJe0penE",
+    "char_count": 172,
+    "class": "general_narrative",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/057-woArJe0penE.json",
+    "has_text": true,
+    "text_excerpt": "世界盃补水就是为了塞广告潜力物补主帅克洛普犀利批评世界盃新规他指出所谓保护球员抵禦高温只是国际足连的表面说辞补水暂停实则是为插步广告找借口克..."
+  },
+  {
+    "id": "058-qxJAlfjfB1A",
+    "source": "youtube",
+    "title": "HWG，亞馬爾最嚴厲的父親加盟皇馬#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=qxJAlfjfB1A",
+    "char_count": 295,
+    "class": "general_narrative",
+    "opening_shape": "value_or_attitude_claim",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/058-qxJAlfjfB1A.json",
+    "has_text": true,
+    "text_excerpt": "根本停不下来黄马下窗第五千来了权威记者罗马诺以标志性的here we go宣布黄马将签下戒尔西所后卫西班牙国角库库雷利亚转会费总额超过五千万..."
+  },
+  {
+    "id": "059-VWWca8HAr9I",
+    "source": "youtube",
+    "title": "打入世界杯卻要回家生孩子！足壇史上還有哪幾位球員因家庭原因退賽？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=VWWca8HAr9I",
+    "char_count": 1050,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/059-VWWca8HAr9I.json",
+    "has_text": true,
+    "text_excerpt": "如果比利时今年能踢进四分之一决赛他们将会缺手一员大将那就是边风多酷因为他有回家陪老婆生孩子多酷的妻子余审期在7月的第二周按照失业杯赛程估算也..."
+  },
+  {
+    "id": "060-UCE6wa-Begw",
+    "source": "youtube",
+    "title": "葡萄牙抵達美國後的第一場訓練，C羅真的不怕熱?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=UCE6wa-Begw",
+    "char_count": 377,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/060-UCE6wa-Begw.json",
+    "has_text": true,
+    "text_excerpt": "这是葡萄牙在迈阿米第一场训练斯罗在进入训练场前走到一位女球迷的身边并和她拥抱女球迷直接哭了出来斯罗一直对她进行安慰当听到女球迷非常喜欢自己斯..."
+  },
+  {
+    "id": "061-avPxqRZqQrQ",
+    "source": "youtube",
+    "title": "2026世界盃將成「最後一代告別賽」？一個時代的終章正在逼近#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=avPxqRZqQrQ",
+    "char_count": 387,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/061-avPxqRZqQrQ.json",
+    "has_text": true,
+    "text_excerpt": "2026年世界盃将会是本世纪最令人感伤的一届世界盃而人们很可能会在失去之后才意识到这一点因为这不仅仅是一届普通的赛事这将是一些最伟大传奇球员..."
+  },
+  {
+    "id": "062-mH-o2M5zDwI",
+    "source": "youtube",
+    "title": "巴西3比0海地，送對手提前出局#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=mH-o2M5zDwI",
+    "char_count": 213,
+    "class": "general_narrative",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/062-mH-o2M5zDwI.json",
+    "has_text": true,
+    "text_excerpt": "五星巴西踢瘋了魅馬爾繼續傷停大波小羅道場出陣巴西隊三比零橫掃海地安且落地帶隊取得世界盃小組在手上兩輪過後基本鎖定出現名額而比賽上半時實力佔優..."
+  },
+  {
+    "id": "063-ynzq-l9Ez1g",
+    "source": "youtube",
+    "title": "世界杯有哪些身價虛高的球員？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=ynzq-l9Ez1g",
+    "char_count": 1214,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "comment_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/063-ynzq-l9Ez1g.json",
+    "has_text": true,
+    "text_excerpt": "世界名场有哪些身价与表现极其不相服务的球员为什么很多豪门球员明明能力平庸但身价却有那么虚高欧呢在土耳其0比1输给巴勒规的比赛中土耳其两大身价..."
+  },
+  {
+    "id": "064-XxlQKSt1OBs",
+    "source": "youtube",
+    "title": "他不是神，他只是一個扛起一切的隊長#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=XxlQKSt1OBs",
+    "char_count": 831,
+    "class": "emotional_time_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/064-XxlQKSt1OBs.json",
+    "has_text": true,
+    "text_excerpt": "當皮球繞過人牆墜入遠端死角39歲的梅希沒有奔跑她掀起球一眼瞻念頭淚水從指縫間呼聲滲出世界杯史上首個帽子戲法第16例總進球追平克洛澤最年長的帽..."
+  },
+  {
+    "id": "065-F-ZGG2k3KMU",
+    "source": "youtube",
+    "title": "他是全世界最低調的億萬富翁#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=F-ZGG2k3KMU",
+    "char_count": 252,
+    "class": "general_narrative",
+    "opening_shape": "value_or_attitude_claim",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/065-F-ZGG2k3KMU.json",
+    "has_text": true,
+    "text_excerpt": "他的所有衣服夹起来还不到6美元但他却是一位亿万富翁看起来他的生活更像一个普通的保安而不是世界级球星他甚至只买了一辆9摩托车作为日常逮捕工具去..."
+  },
+  {
+    "id": "066-YP0G4MDKq-8",
+    "source": "youtube",
+    "title": "8%的體脂率！41歲C羅的自律究竟有多離譜？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=YP0G4MDKq-8",
+    "char_count": 616,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "mistake",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/066-YP0G4MDKq-8.json",
+    "has_text": true,
+    "text_excerpt": "直到看见塞罗这一幕的身材我终于明白它到底有多自律年满41岁的塞罗不仅还保持着满身都是剑子肉它的身材甚至和巅峰时期没有任何区别就连26岁的泼涛..."
+  },
+  {
+    "id": "067-IY8otw032r8",
+    "source": "youtube",
+    "title": "管你什麼戰術什麼對手，我們有球王梅西！#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=IY8otw032r8",
+    "char_count": 407,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/067-IY8otw032r8.json",
+    "has_text": true,
+    "text_excerpt": "为什么说阿根廷的世界杯手战必须要重点敌方阿尔吉利亚正中的两名球员这其中一人就是阿尔吉利亚的门家齐达内的儿子盧卡齐达内注意看这是荷兰对阵阿尔吉..."
+  },
+  {
+    "id": "067-Yzdwy7pXuVM",
+    "source": "youtube",
+    "title": "Brazil vs. Morocco! A clash between the world's sixth and seventh ranked teams. #Sports #Football",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/Yzdwy7pXuVM",
+    "char_count": 851,
+    "class": "general_narrative",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/067-Yzdwy7pXuVM.json",
+    "has_text": true,
+    "text_excerpt": "世界被迎來重磅對決五星巴西迎戰非洲冠軍摩洛哥不少球迷憑藉巴西的豪門熱度和豪華陣容奠定桑巴軍團可以輕鬆拿下比賽但這場較量實則暗藏諸多變數看似強..."
+  },
+  {
+    "id": "068-4jIiI9dUY_c",
+    "source": "youtube",
+    "title": "德國+奧地利能拿世界冠軍?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=4jIiI9dUY_c",
+    "char_count": 361,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/068-4jIiI9dUY_c.json",
+    "has_text": true,
+    "text_excerpt": "你知道把德國奧地利足球合併後會發生什麼嗎首先可以肯定不會存在磨合與融入問題畢竟德奧合併這事兒在歷史上出現了不止一次兩波在經濟、文化、飲食、語..."
+  },
+  {
+    "id": "069-OxDsYL60u4I",
+    "source": "youtube",
+    "title": "1998年世界盃最佳十一人#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=OxDsYL60u4I",
+    "char_count": 367,
+    "class": "emotional_time_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/069-OxDsYL60u4I.json",
+    "has_text": true,
+    "text_excerpt": "1998年世界唯最佳陣容門將位置俱樂部的黃有首國家隊的定海神針淘汰賽的極致靈風巴特斯左後衛是身材矮小攻守平衡跑不死邊後衛掌管馬特烏斯的暴躁老..."
+  },
+  {
+    "id": "070-H6Tgzn9TwOo",
+    "source": "youtube",
+    "title": "葡萄牙首戰爆冷後的的首場訓練，C羅用狀態打破質疑?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=H6Tgzn9TwOo",
+    "char_count": 430,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "star",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/070-H6Tgzn9TwOo.json",
+    "has_text": true,
+    "text_excerpt": "这是葡萄牙队首战暴冷后的第二场训练也是内红风波后的首场训练C罗根产严报道的媒体聊天并做出首饰是以他们继续说吧C罗十分明确现如今葡萄牙最最需要..."
+  },
+  {
+    "id": "070-mbK87fYQLm4",
+    "source": "youtube",
+    "title": "France or the United States: which team is the \"immigrant contingent\" of this World Cup? #Sports ...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/mbK87fYQLm4",
+    "char_count": 1128,
+    "class": "twist_story",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/070-mbK87fYQLm4.json",
+    "has_text": true,
+    "text_excerpt": "法国队与美国队究竟谁才是本届世界盃的比一名大队在来看法国队的26人大名单自从格雷斯曼与吉鲁离开国家队后法国队似乎找不到一个法兰西郑伯伯齐了就..."
+  },
+  {
+    "id": "071-YHAIOUCbFxk",
+    "source": "youtube",
+    "title": "伊朗隊世界杯跨境比賽的一天#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=YHAIOUCbFxk",
+    "char_count": 650,
+    "class": "general_narrative",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/071-YHAIOUCbFxk.json",
+    "has_text": true,
+    "text_excerpt": "清晨通關入境美國踢完比賽被勒令連夜出境來看看伊朗隊世界杯的一天是如何度過的美國時間6月14日清晨5點半駐紮在墨西哥蒂華納梅亞酒店的伊朗隊員全..."
+  },
+  {
+    "id": "072-c6I9ucP1kvA",
+    "source": "youtube",
+    "title": "足球在美國體壇算第幾運動？#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/c6I9ucP1kvA",
+    "char_count": 1355,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/072-c6I9ucP1kvA.json",
+    "has_text": true,
+    "text_excerpt": "体谈留下一句话叫美语中不足意思是调侃中国与美国不擅长提足球但事实上美国男足还是稍微强一点的这么共12次打击世界杯在1996年后的十二届世界杯..."
+  },
+  {
+    "id": "072-kXmFC6WmBc4",
+    "source": "youtube",
+    "title": "18歲亞馬爾首開紀錄，西班牙4-0大勝沙特阿拉伯#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=kXmFC6WmBc4",
+    "char_count": 321,
+    "class": "emotional_time_story",
+    "opening_shape": "live_action_entry",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/072-kXmFC6WmBc4.json",
+    "has_text": true,
+    "text_excerpt": "逗牛市军团举行18岁天才亚马尔闪耀美加莫世界盃H组第二轮西班牙对阵沙特阿拉伯首轮暴冷被佛德角临风的逗牛市军团本场开场就火力全开24分钟连入三..."
+  },
+  {
+    "id": "073-1iFaBibcQzs",
+    "source": "youtube",
+    "title": "盧卡庫重回首發卻踢出本屆世界杯至今最糟糕的中鋒表現\"?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=1iFaBibcQzs",
+    "char_count": 371,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/073-1iFaBibcQzs.json",
+    "has_text": true,
+    "text_excerpt": "本届世界盃中風的下線又被刷新了首發初戰70分鐘的盧卡庫竟被評分機構打出了比6.1還要低0.2的5.9分這並不是因為隊友沒給他足夠的支持而是盧..."
+  },
+  {
+    "id": "074-dRDr4JP5J_A",
+    "source": "youtube",
+    "title": "球場離大譜事件#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=dRDr4JP5J_A",
+    "char_count": 188,
+    "class": "twist_story",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "replay_reveal",
+      "mistake"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/074-dRDr4JP5J_A.json",
+    "has_text": true,
+    "text_excerpt": "这名球员对着裁判后背吐口水后去接踪而至的处罚结果出乎所有人意料赫克托阿雷拉在防守过程中出现犯规动作主裁判当即掏出黄牌对其一一警示可他对这次判..."
+  },
+  {
+    "id": "075-iVeeyGrpkks",
+    "source": "youtube",
+    "title": "庫拉索門神魯姆3年前被阿根廷進了7個，還得到梅西的紀念球衣?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=iVeeyGrpkks",
+    "char_count": 898,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/075-iVeeyGrpkks.json",
+    "has_text": true,
+    "text_excerpt": "你能想象吗这个37岁的克拉索门将用冲击录的单场15次铺救光着锁队拿到队史上首个世界杯积分的男人在年前的一场友谊赛中却被阿根廷灌进了七一个他还..."
+  },
+  {
+    "id": "076-7l_fr1hHuik",
+    "source": "youtube",
+    "title": "姆巴佩不打比賽的一天，是如何度過的?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=7l_fr1hHuik",
+    "char_count": 508,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/076-7l_fr1hHuik.json",
+    "has_text": true,
+    "text_excerpt": "来看看身价2.1亿美元一天花费15万的母八配不达比赛的一天是怎么度过的清晨6点母八配在马德里的超限带豪宅内行来禁止走进价值10万美元的冷冻治..."
+  },
+  {
+    "id": "077-wPARCunTO8Y",
+    "source": "youtube",
+    "title": "詹俊配張路，門將必失誤?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=wPARCunTO8Y",
+    "char_count": 1188,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "fact_payoff",
+    "tags": [
+      "time_payoff",
+      "replay_reveal",
+      "mistake",
+      "question_hook",
+      "live_energy",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/077-wPARCunTO8Y.json",
+    "has_text": true,
+    "text_excerpt": "张俊裴张露 门将B时护谁被搜索在第二轮墨西哥1比0战胜韩国下半场第50分钟韩国门将金城葵中击托手给了墨西哥打空门的机会而巧合的是这场比赛的解..."
+  },
+  {
+    "id": "078-oHixlV82XSM",
+    "source": "youtube",
+    "title": "C羅粉絲這次到底做了什麼？就連若塔也成了被針對的對象?#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=oHixlV82XSM",
+    "char_count": 172,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "question_hook"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/078-oHixlV82XSM.json",
+    "has_text": true,
+    "text_excerpt": "若塔都不放過斯羅極端粉絲也太瘋狂葡萄牙首戰暴龍戰平崗谷今後全對球員軍遭遇往報辱罵留言充斥社交平台甚至有人攻擊球員家屬事態徹底突破底線如今已故..."
+  },
+  {
+    "id": "079-EWlKIcUo4_c",
+    "source": "youtube",
+    "title": "2002世界盃（無韓國隊員）最佳十一人陣容#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=EWlKIcUo4_c",
+    "char_count": 472,
+    "class": "emotional_time_story",
+    "opening_shape": "value_or_attitude_claim",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/079-EWlKIcUo4_c.json",
+    "has_text": true,
+    "text_excerpt": "2002年世界盃最佳陣容 吳韓國球員文獎位置是 氣場比賽僅失三球決賽前完美表現 首位世界盃金球獎文獎卡恩左後位是 左路通道的掌控者桑巴軍團的..."
+  },
+  {
+    "id": "080-hiI9l_DNnE4",
+    "source": "youtube",
+    "title": "C羅送給保潔阿姨一套房子，背後原因太暖了#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/watch?v=hiI9l_DNnE4",
+    "char_count": 371,
+    "class": "emotional_time_story",
+    "opening_shape": "compressed_context_entry",
+    "ending_shape": "emotional_payoff",
+    "tags": [
+      "star",
+      "time_payoff",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/080-hiI9l_DNnE4.json",
+    "has_text": true,
+    "text_excerpt": "玛利亚已经在C罗家中做清洁工作10年了每天早晨她都会准时出现重复着相同的工作流程安静 微笑 认真而辛苦的打扫一天晚上C罗路过走廊时偶然听到她..."
+  },
+  {
+    "id": "081-QLtvNmsXDrU",
+    "source": "youtube",
+    "title": "Messi's final dance: Are the people who watched the game with you four years ago still around? #S...",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/QLtvNmsXDrU",
+    "char_count": 743,
+    "class": "question_explainer",
+    "opening_shape": "direct_question",
+    "ending_shape": "question_or_debate",
+    "tags": [
+      "star",
+      "time_payoff",
+      "mistake",
+      "question_hook",
+      "comment_hook",
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/081-QLtvNmsXDrU.json",
+    "has_text": true,
+    "text_excerpt": "每家墨世界碑就要开场了梅西的最后一幕终于来到眼前忽然很想知道四年前卡塔尔的冬天陪在你身边看球的那个人现在还在吗2022年11月22日阿根廷手..."
+  },
+  {
+    "id": "093-voVOGM-pHkA",
+    "source": "youtube",
+    "title": "沉浸式體驗德國隊世界盃期間在美國22萬平的訓練基地#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/voVOGM-pHkA",
+    "char_count": 1086,
+    "class": "general_narrative",
+    "opening_shape": "start_from_visible_moment",
+    "ending_shape": "open_loop_or_summary",
+    "tags": [
+      "data_or_ranking"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/093-voVOGM-pHkA.json",
+    "has_text": true,
+    "text_excerpt": "總分寶石序的來看看德國對世界盃期間在美國溫斯頓的臨時訓練基地占地22.2萬平方米的格雷林莊園酒店看完你就明白什麼才是頂級強隊的專業頂月這座集..."
+  },
+  {
+    "id": "096-uIvSPDW-D_Y",
+    "source": "youtube",
+    "title": "美加墨世界盃葡萄牙隊，正式出征C羅最後一次帶隊遠洋#體育#足球",
+    "author_or_channel": "這就是足球",
+    "url": "https://www.youtube.com/shorts/uIvSPDW-D_Y",
+    "char_count": 0,
+    "class": "silent_or_subtitle_only",
+    "opening_shape": "no_spoken_hook",
+    "ending_shape": "none",
+    "tags": [
+      "star",
+      "time_payoff"
+    ],
+    "transcript_file": "data/benchmark/football-creators/youtube/transcripts/096-uIvSPDW-D_Y.json",
+    "has_text": false,
+    "text_excerpt": ""
+  }
+]

@@ -1,0 +1,199 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "topics": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "title": { "type": "string" },
+          "angle": { "type": "string" },
+          "hook": { "type": "string" },
+          "reason": { "type": "string" },
+          "evidenceType": {
+            "type": "string",
+            "enum": [
+              "question_explainer",
+              "visible_incident",
+              "human_relationship",
+              "star_micro_action",
+              "live_commentary",
+              "subtitle_moment",
+              "fact_list"
+            ]
+          },
+          "narrationMode": {
+            "type": "string",
+            "enum": ["narrative_voiceover", "commentary_assisted", "subtitle_first"]
+          },
+          "editDifficulty": { "type": "string", "enum": ["low", "medium", "high"] },
+          "styleEngineId": { "type": "string" },
+          "styleEngineLabel": { "type": "string" },
+          "topicMechanism": { "type": "string" },
+          "hotness": { "type": "number" },
+          "suggestedDurationSec": { "type": "number" },
+          "assetRefs": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "hotspotSignalIds": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "riskFlags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "preflight": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "total": { "type": "number" },
+              "verdict": { "type": "string", "enum": ["pass", "repair", "hide"] },
+              "dimensions": {
+                "type": "array",
+                "minItems": 6,
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "id": { "type": "string" },
+                    "label": { "type": "string" },
+                    "score": { "type": "number" },
+                    "maxScore": { "type": "number" },
+                    "reason": { "type": "string" }
+                  },
+                  "required": ["id", "label", "score", "maxScore", "reason"]
+                }
+              },
+              "repairActions": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            },
+            "required": ["total", "verdict", "dimensions", "repairActions"]
+          },
+          "script": {
+            "type": "array",
+            "minItems": 5,
+            "maxItems": 18,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "label": { "type": "string" },
+                "voiceover": { "type": "string" },
+                "visualInstruction": { "type": "string" },
+                "caption": { "type": "string" },
+                "startSec": { "type": "number" },
+                "durationSec": { "type": "number" },
+                "assetRef": { "type": "string" }
+              },
+              "required": ["label", "voiceover", "visualInstruction", "caption", "startSec", "durationSec", "assetRef"]
+            }
+          },
+          "materialNotes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "assetRef": { "type": "string" },
+                "role": { "type": "string", "enum": ["primary", "context", "backup"] },
+                "suggestedCut": { "type": "string" },
+                "verification": { "type": "string" }
+              },
+              "required": ["assetRef", "role", "suggestedCut", "verification"]
+            }
+          },
+          "publish": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "platformTitle": { "type": "string" },
+              "description": { "type": "string" },
+              "hashtags": {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              "coverText": { "type": "string" }
+            },
+            "required": ["platformTitle", "description", "hashtags", "coverText"]
+          },
+          "viralScore": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "total": { "type": "number" },
+              "verdict": { "type": "string", "enum": ["go", "revise", "skip"] },
+              "targetAudienceLabel": { "type": "string" },
+              "recommendedPlatforms": {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              "dimensions": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "id": { "type": "string" },
+                    "label": { "type": "string" },
+                    "score": { "type": "number" },
+                    "reason": { "type": "string" }
+                  },
+                  "required": ["id", "label", "score", "reason"]
+                }
+              },
+              "retryAdvice": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            },
+            "required": ["total", "verdict", "targetAudienceLabel", "recommendedPlatforms", "dimensions", "retryAdvice"]
+          },
+          "rewriteNotes": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": [
+          "title",
+          "angle",
+          "hook",
+          "reason",
+          "evidenceType",
+          "narrationMode",
+          "editDifficulty",
+          "styleEngineId",
+          "styleEngineLabel",
+          "topicMechanism",
+          "hotness",
+          "suggestedDurationSec",
+          "assetRefs",
+          "hotspotSignalIds",
+          "riskFlags",
+          "preflight",
+          "script",
+          "materialNotes",
+          "publish",
+          "viralScore",
+          "rewriteNotes"
+        ]
+      }
+    },
+    "trace": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "warnings": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["topics", "trace", "warnings"]
+}

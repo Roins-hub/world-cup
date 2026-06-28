@@ -1,0 +1,49 @@
+{
+  "name": "world-cup",
+  "version": "1.0.0",
+  "description": "World Cup hot-topic content factory with YouTube asset research and JianYing draft automation.",
+  "type": "module",
+  "main": "server/index.ts",
+  "scripts": {
+    "dev": "concurrently -n api,web -c cyan,green \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "tsx watch server/index.ts",
+    "dev:web": "vite --host 0.0.0.0",
+    "api": "tsx server/index.ts",
+    "build": "tsc --noEmit && vite build",
+    "codex:pack": "tsx scripts/codex-pack.ts",
+    "verify:ui": "tsx scripts/verify-ui.ts",
+    "test:quality": "tsx scripts/quality-regression.ts",
+    "test:codex-agent": "tsx scripts/codex-agent-smoke.ts"
+  },
+  "keywords": [
+    "world-cup",
+    "short-video",
+    "jianying",
+    "youtube",
+    "codex"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "lucide-react": "^1.21.0",
+    "nanoid": "^5.1.15",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "vite": "^8.0.16",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.0.0",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "concurrently": "^10.0.3",
+    "playwright": "^1.61.0",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}

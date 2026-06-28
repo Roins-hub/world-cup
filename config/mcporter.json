@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "xiaohongshu": {
+      "command": "/Users/airhua/.nvm/versions/node/v18.20.5/bin/rednote-mcp",
+      "args": [
+        "--stdio"
+      ]
+    }
+  }
+}

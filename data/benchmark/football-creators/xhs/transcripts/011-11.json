@@ -1,0 +1,64 @@
+{
+  "source": "xhs",
+  "metadata": {
+    "id": "11",
+    "title": "裁判视角看梅西超远世界波",
+    "url": "https://www.xiaohongshu.com/explore/6a320c020000000007022d9d?xsec_token=REDACTED&xsec_source=pc_search",
+    "video_url": "https://sns-bak-v1.xhscdn.com/stream/79/110/259/01ea320b59424a81010370039ed37f1920_259.mp4",
+    "likes": 1737,
+    "comments": 239,
+    "author": "热血体育报",
+    "content": "",
+    "tags": [
+      "藏不住了我是球迷",
+      "世界杯聊个球",
+      "我的世界杯日记",
+      "世界杯剪辑小赛",
+      "决战足球梗之巅",
+      "世界杯笑个球",
+      "好视频扶持计划",
+      "边看边聊世界杯",
+      "世界杯直播",
+      "世界杯赛事直击"
+    ]
+  },
+  "asr": {
+    "model": "small",
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 18.2290625
+  },
+  "text": "对 这个问题出得太大了刚刚看是不打围啊中间这次想要去铲这个球路但是你失去了位置 又摔倒了给到了一个比较大的进去前的空档Luca 其他内容",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "对 这个问题出得太大了"
+    },
+    {
+      "start": 3.6,
+      "end": 5.16,
+      "text": "刚刚看是不打围啊"
+    },
+    {
+      "start": 5.16,
+      "end": 7.32,
+      "text": "中间这次想要去铲这个球路"
+    },
+    {
+      "start": 7.32,
+      "end": 9.52,
+      "text": "但是你失去了位置 又摔倒了"
+    },
+    {
+      "start": 9.52,
+      "end": 12.08,
+      "text": "给到了一个比较大的进去前的空档"
+    },
+    {
+      "start": 13.97,
+      "end": 15.13,
+      "text": "Luca 其他内容"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source": "youtube",
+  "metadata": {
+    "id": "muLiseHlSJQ",
+    "title": "世界盃前瞻：德國vs庫拉索！ 10億身價大戰0.3億#體育#足球",
+    "url": "https://www.youtube.com/shorts/muLiseHlSJQ",
+    "duration": null,
+    "view_count": 27000,
+    "like_count": null,
+    "channel": "這就是足球"
+  },
+  "stage": "download",
+  "returncode": 1,
+  "cmd": [
+    "yt-dlp",
+    "-f",
+    "ba/bestaudio/18/best",
+    "-x",
+    "--audio-format",
+    "wav",
+    "--audio-quality",
+    "0",
+    "--no-playlist",
+    "-o",
+    "/Users/airhua/Documents/world-cup/data/benchmark/football-creators/youtube/audio/muLiseHlSJQ.%(ext)s",
+    "https://www.youtube.com/shorts/muLiseHlSJQ"
+  ]
+}

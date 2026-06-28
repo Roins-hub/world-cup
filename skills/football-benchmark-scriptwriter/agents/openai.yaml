@@ -1,0 +1,4 @@
+interface:
+  display_name: "Football Benchmark Scriptwriter"
+  short_description: "Football short-video copy patterns"
+  default_prompt: "Rewrite this football topic into a benchmarked short-video title, voiceover, edit plan, and score."

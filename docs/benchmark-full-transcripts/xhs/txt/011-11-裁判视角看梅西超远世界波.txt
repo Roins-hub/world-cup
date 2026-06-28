@@ -1,0 +1,22 @@
+标题: 裁判视角看梅西超远世界波
+来源: xhs
+作者/频道: 热血体育报
+URL: https://www.xiaohongshu.com/explore/6a320c020000000007022d9d?xsec_token=REDACTED&xsec_source=pc_search
+本地 ASR JSON: /Users/airhua/Documents/world-cup/data/benchmark/football-creators/xhs/transcripts/011-11.json
+分类: twist_story
+开头形态: start_from_visible_moment
+结尾形态: open_loop_or_summary
+标签: star, mistake
+字数: 68
+字幕段数: 6
+
+完整合并旁白:
+对 这个问题出得太大了刚刚看是不打围啊中间这次想要去铲这个球路但是你失去了位置 又摔倒了给到了一个比较大的进去前的空档Luca 其他内容
+
+完整时间轴字幕:
+001 00:00:00,000 --> 00:00:01,600 对这个问题出得太大了
+002 00:00:03,600 --> 00:00:05,160 刚刚看是不打围啊
+003 00:00:05,160 --> 00:00:07,320 中间这次想要去铲这个球路
+004 00:00:07,320 --> 00:00:09,520 但是你失去了位置又摔倒了
+005 00:00:09,520 --> 00:00:12,080 给到了一个比较大的进去前的空档
+006 00:00:13,970 --> 00:00:15,130 Luca其他内容

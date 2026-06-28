@@ -1,0 +1,4 @@
+interface:
+  display_name: "Football Creative Director"
+  short_description: "基于完整旁白样本的足球短视频创作操刀与剪映风格校验流程"
+  default_prompt: "Use $football-creative-director to turn a football topic into benchmarked short-video topics, voiceover, edit beats, and validation checks."

@@ -1,0 +1,789 @@
+{
+  "collectedAt": "2026-06-22T15:37:44.313Z",
+  "sampleCounts": {
+    "youtube": 80,
+    "xiaohongshu": 42,
+    "xhsDetails": 18,
+    "total": 122
+  },
+  "youtube": {
+    "viewsTotal": 4562327,
+    "durationMedian": 65,
+    "titleBuckets": {
+      "star": 30,
+      "number_fact": 32,
+      "emotion": 4,
+      "plain": 9,
+      "question": 47,
+      "shock": 11,
+      "prediction": 1
+    },
+    "top20": [
+      {
+        "title": "17年後再相遇：梅西與昔日隊友之子的溫馨瞬間#體育#足球",
+        "views": 1148213,
+        "likes": 12565,
+        "durationSec": 54,
+        "url": "https://www.youtube.com/watch?v=QqD5jAtG-6I",
+        "buckets": [
+          "star",
+          "number_fact"
+        ]
+      },
+      {
+        "title": "守門員一個低級的失誤細節，親手送走全隊辛辛苦苦拼來的希望#體育#足球",
+        "views": 758685,
+        "likes": 3985,
+        "durationSec": 32,
+        "url": "https://www.youtube.com/watch?v=Bl9hk6ZRB_o",
+        "buckets": [
+          "shock",
+          "number_fact"
+        ]
+      },
+      {
+        "title": "這是什麼離譜操作？#體育#足球",
+        "views": 155911,
+        "likes": 1048,
+        "durationSec": 29,
+        "url": "https://www.youtube.com/watch?v=gOf7a1x2O9k",
+        "buckets": [
+          "question",
+          "shock"
+        ]
+      },
+      {
+        "title": "「足壇暖心時刻！小球迷因為口音被嘲笑，C羅直接出面製止！”#體育#足球",
+        "views": 144479,
+        "likes": 2652,
+        "durationSec": 40,
+        "url": "https://www.youtube.com/watch?v=4mrE991YMuw",
+        "buckets": [
+          "star",
+          "emotion"
+        ]
+      },
+      {
+        "title": "橫空出世的天才#體育#足球",
+        "views": 119207,
+        "likes": 767,
+        "durationSec": 36,
+        "url": "https://www.youtube.com/watch?v=5MMGEZWCZZk",
+        "buckets": [
+          "plain"
+        ]
+      },
+      {
+        "title": "梅西讓點背後淚目瞬間：當傳奇選擇團隊，而不是紀錄#梅西#體育#足球",
+        "views": 102012,
+        "likes": 1145,
+        "durationSec": 56,
+        "url": "https://www.youtube.com/watch?v=oK1GuoijDtk",
+        "buckets": [
+          "star",
+          "emotion"
+        ]
+      },
+      {
+        "title": "森保一在場邊用只有數字的巨大戰術板向球員傳遞指令?#體育#足球",
+        "views": 82456,
+        "likes": 783,
+        "durationSec": 41,
+        "url": "https://www.youtube.com/watch?v=Cne03IQJgrE",
+        "buckets": [
+          "question",
+          "number_fact"
+        ]
+      },
+      {
+        "title": "主教練要求換人，球員卻拒絕下場，最後竟完成了進球?！#體育#足球",
+        "views": 82318,
+        "likes": 625,
+        "durationSec": 41,
+        "url": "https://www.youtube.com/watch?v=TMTYVuw9ibM",
+        "buckets": [
+          "question"
+        ]
+      },
+      {
+        "title": "失誤連連助梅西加冕世界杯射手王！齊達內真對兒子的表現失望了#體育#足球",
+        "views": 79052,
+        "likes": 584,
+        "durationSec": 43,
+        "url": "https://www.youtube.com/watch?v=6gaFmicoBiw",
+        "buckets": [
+          "shock",
+          "star"
+        ]
+      },
+      {
+        "title": "葡萄牙被逼平的關鍵一幕，C羅當場和門將科斯塔產生分歧?#體育#足球",
+        "views": 70191,
+        "likes": 502,
+        "durationSec": 59,
+        "url": "https://www.youtube.com/watch?v=Ae7Og2vQP-s",
+        "buckets": [
+          "question",
+          "star",
+          "number_fact"
+        ]
+      },
+      {
+        "title": "這又是什麼迷之操作？#體育#足球",
+        "views": 66425,
+        "likes": 682,
+        "durationSec": 30,
+        "url": "https://www.youtube.com/watch?v=WfkdcXnGUUI",
+        "buckets": [
+          "question",
+          "shock"
+        ]
+      },
+      {
+        "title": "外媒評選世界盃歷史最佳十一人陣容#體育#足球",
+        "views": 63834,
+        "likes": 615,
+        "durationSec": 84,
+        "url": "https://www.youtube.com/watch?v=U16b3elR24Q",
+        "buckets": [
+          "number_fact"
+        ]
+      },
+      {
+        "title": "曾經的絕代雙驕，暮年差距越來越大?#體育#足球",
+        "views": 61122,
+        "likes": 1015,
+        "durationSec": 149,
+        "url": "https://www.youtube.com/watch?v=fWZXeTfAlDw",
+        "buckets": [
+          "question"
+        ]
+      },
+      {
+        "title": "正因為這記進球，讓世界強隊都要忌憚日本足球#體育#足球",
+        "views": 61081,
+        "likes": 599,
+        "durationSec": 32,
+        "url": "https://www.youtube.com/watch?v=Y0DWK7_ygB4",
+        "buckets": [
+          "plain"
+        ]
+      },
+      {
+        "title": "從顯眼包變真法寶！勞塔羅不辜負的雙向奔赴#體育#足球",
+        "views": 55076,
+        "likes": 875,
+        "durationSec": 83,
+        "url": "https://www.youtube.com/watch?v=ejkI6HkC8oI",
+        "buckets": [
+          "plain"
+        ]
+      },
+      {
+        "title": "梅西憑什麼贏得整個阿根廷的尊重？這些容易忽略的細節說明了一切#體育#足球",
+        "views": 54139,
+        "likes": 1182,
+        "durationSec": 108,
+        "url": "https://www.youtube.com/watch?v=RYI3Qwy1Z4Q",
+        "buckets": [
+          "question",
+          "star",
+          "number_fact"
+        ]
+      },
+      {
+        "title": "難怪堅持不換下C羅！原來葡萄牙主帥的後路早就鋪好了#體育#足球",
+        "views": 51121,
+        "likes": 477,
+        "durationSec": 30,
+        "url": "https://www.youtube.com/watch?v=jRQPn5ISLDE",
+        "buckets": [
+          "star"
+        ]
+      },
+      {
+        "title": "“c羅啞火！葡萄牙1比1平民主剛果”#體育#足球",
+        "views": 49198,
+        "likes": 484,
+        "durationSec": 56,
+        "url": "https://www.youtube.com/watch?v=yiizD8Oc-3k",
+        "buckets": [
+          "number_fact"
+        ]
+      },
+      {
+        "title": "兜兜轉轉，回頭一看，王座上的依然是梅西！#體育#足球",
+        "views": 46910,
+        "likes": 519,
+        "durationSec": 55,
+        "url": "https://www.youtube.com/watch?v=6hH0PUghMdI",
+        "buckets": [
+          "star",
+          "number_fact"
+        ]
+      },
+      {
+        "title": "美加墨共13位35歲以上門將登場！為何守門員都是越老越妖？#體育#足球",
+        "views": 46051,
+        "likes": 586,
+        "durationSec": 148,
+        "url": "https://www.youtube.com/watch?v=UpZpumbYioA",
+        "buckets": [
+          "question",
+          "number_fact"
+        ]
+      }
+    ]
+  },
+  "xiaohongshu": {
+    "likesTotal": 48727,
+    "commentsTotal": 6961,
+    "titleBuckets": {
+      "star": 27,
+      "number_fact": 26,
+      "shock": 14,
+      "question": 9,
+      "emotion": 6,
+      "prediction": 10,
+      "plain": 3
+    },
+    "top20": [
+      {
+        "title": "【真实解说】球王梅西帽子戏法！",
+        "author": "真实球迷汇",
+        "likes": 7666,
+        "comments": 466,
+        "url": "https://www.xiaohongshu.com/explore/6a3221930000000022008388?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "阿根廷3比0阿尔及利亚！大马丁零封！德保罗、冈萨雷斯助攻！#梅西 #世界杯聊个球 #足球 #世界杯里看世界 #世界杯下饭时刻 #真实球迷汇 #阿根廷 #劳塔罗 #冈萨雷斯 #大马丁"
+      },
+      {
+        "title": "阿根廷VS阿尔及利亚16分钟梅西远射破门",
+        "author": "世界杯瞬间",
+        "likes": 5561,
+        "comments": 1114,
+        "url": "https://www.xiaohongshu.com/explore/6a31f72f000000002100b902?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "#世界杯  #世界杯聊个球   #边看边聊世界杯\n#阿根廷vs阿尔及利亚"
+      },
+      {
+        "title": "进球了，进球了，梅西强的可怕",
+        "author": "🎬娱圈叨叨叨～",
+        "likes": 6539,
+        "comments": 541,
+        "url": "https://www.xiaohongshu.com/explore/6a31f6af000000000f01c6a2?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "shock",
+          "star"
+        ],
+        "contentPreview": "#我的世界杯日记   #世界杯聊个球 #世界杯赛事直击  #范志毅  #梅西 #MindBack"
+      },
+      {
+        "title": "“散步”的梅西是如何踢球的！",
+        "author": "越位指南",
+        "likes": 5058,
+        "comments": 355,
+        "url": "https://www.xiaohongshu.com/explore/6a2cb2ac000000000702487d?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "question",
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "只要给他一次机会，他就能进球！goat🐐#世界杯聊个球 #藏不住了我是球迷 #我的世界杯日记 #世界杯剪辑小赛 #边看边聊世界杯 #决战足球梗之巅 #世界杯笑个球"
+      },
+      {
+        "title": "早起解说完阿根廷VS阿尔及利亚",
+        "author": "范志毅",
+        "likes": 3827,
+        "comments": 265,
+        "url": "https://www.xiaohongshu.com/explore/6a32774f000000001101d5f6?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star",
+          "emotion"
+        ],
+        "contentPreview": "梅西“帽子戏法”，我赛后的感受是……#世界杯聊个球 #世界杯直播 #世界杯赛事直击"
+      },
+      {
+        "title": "哈兰德的进球方式 总是让人意想不到！",
+        "author": "发财兔钓娱",
+        "likes": 3201,
+        "comments": 48,
+        "url": "https://www.xiaohongshu.com/explore/6a320d550000000017029e22?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star"
+        ],
+        "contentPreview": "#世界杯聊个球 #世界杯笑个球 #我的世界杯日记 #哈兰德 #足球 #万万没想到 #藏不住了我是球迷"
+      },
+      {
+        "title": "思路打开｜哈兰德的进球方式不受限",
+        "author": "远方的知识认知",
+        "likes": 16,
+        "comments": 1088,
+        "url": "https://www.xiaohongshu.com/explore/6a327d2f00000000060333e3?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "哈兰德这进球方式真的太全面了！🏆 不仅对抗硬、射门准，连空中作业都这么稳，思路打开，对抗来吧～💪\n哈兰德要是入籍中国队，肯定能进世界杯！哈兰德 #世界杯聊个球  #美加墨世界杯 #夏日足球盛宴 #思路打开 #足球少年 #神锋哈兰德  #足球的魅力 #哈兰德  #00后也能扛大旗"
+      },
+      {
+        "title": "世界杯|C罗第六次出战 葡萄牙1-1刚果（金）",
+        "author": "世界杯快报",
+        "likes": 714,
+        "comments": 855,
+        "url": "https://www.xiaohongshu.com/explore/6a32ef1b000000002200ae77?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "question",
+          "star",
+          "number_fact",
+          "prediction"
+        ],
+        "contentPreview": "🕒比赛时间：6月18日1点\n📍赛事地点：休斯顿体育场\n✅最终比分：葡萄牙1-1刚果（金）\n\t\n📝赛事前瞻：葡萄牙队的世界排名是第5位，刚果（金）排在第46位，后者上一次参加世界杯还是1974年，当时一球未进。这场比赛是两队历史上的首次交锋。\n\t\n⏱上半场赛况：若昂·内维斯头球破门首开纪录，维萨也利用头球扳平比分，"
+      },
+      {
+        "title": "发明越位的人真的是一个天才",
+        "author": "玩梗风向标",
+        "likes": 2797,
+        "comments": 133,
+        "url": "https://www.xiaohongshu.com/explore/6a3153f3000000001702b5d6?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "number_fact"
+        ],
+        "contentPreview": "#世界杯  #足球  #越位  #名场面 #世界杯聊个球 #藏不住了我是球迷 #娱乐评论大赏"
+      },
+      {
+        "title": "逆境之王！C罗的那一晚这一脚",
+        "author": "看台长凳观赛",
+        "likes": 2301,
+        "comments": 118,
+        "url": "https://www.xiaohongshu.com/explore/6a2e449f000000002103f1c2?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "#世界杯聊个球 #世界杯里看世界 #决战足球梗之巅"
+      },
+      {
+        "title": "裁判视角看梅西超远世界波",
+        "author": "热血体育报",
+        "likes": 1737,
+        "comments": 239,
+        "url": "https://www.xiaohongshu.com/explore/6a320c020000000007022d9d?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star"
+        ],
+        "contentPreview": "#藏不住了我是球迷 #世界杯聊个球 #我的世界杯日记 #世界杯剪辑小赛 #决战足球梗之巅 #世界杯笑个球 #好视频扶持计划 #边看边聊世界杯 #世界杯直播 #世界杯赛事直击"
+      },
+      {
+        "title": "C罗",
+        "author": "KJTS",
+        "likes": 56,
+        "comments": 734,
+        "url": "https://www.xiaohongshu.com/explore/6a26d01c000000002200ae57?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "shock",
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "逆天核心 解说：C罗摔…起来了！#c罗最后一舞 #c罗庆祝 #c罗名场面 #c罗身体素质好强 #美加墨世界杯"
+      },
+      {
+        "title": "阿根廷3-0阿尔及利亚，梅西三球，全场集锦",
+        "author": "追球日记",
+        "likes": 1699,
+        "comments": 114,
+        "url": "https://www.xiaohongshu.com/explore/6a32141c0000000008030695?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "2026世界杯小组赛J组第1轮，\n阿根廷与阿尔及利亚在堪萨斯城体育场展开角逐。\n上半场梅西轰世界波。\n下半场，梅西凭借无解射术再入两球上演帽子戏法，\n以16球追平克洛泽，加冕世界杯历史射手王！\n最终，阿根廷3-0完胜阿尔及利亚。\n#世界杯记忆 #世界杯里看世界 #用二次元打开世界杯 #来小红书看世界杯 #2026美加墨"
+      },
+      {
+        "title": "【真解说球】葡萄牙爆冷平刚果！",
+        "author": "真实球迷汇",
+        "likes": 1295,
+        "comments": 199,
+        "url": "https://www.xiaohongshu.com/explore/6a33bc0e00000000110186e4?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "question",
+          "shock",
+          "star",
+          "number_fact"
+        ],
+        "contentPreview": "C罗联手马丁内斯榨干葡萄牙，真要完了！背后还有人坑葡萄牙！世一中到底是谁？#世界杯聊个球 #足球 #C罗 #马丁内斯 #弗洛伦蒂诺 #真实球迷汇 #来小红书看世界杯 #世界杯下饭时刻 #世界杯"
+      },
+      {
+        "title": "英超最佳球员的标准来衡量 本场表现如何？",
+        "author": "足球元素",
+        "likes": 900,
+        "comments": 251,
+        "url": "https://www.xiaohongshu.com/explore/6a3410bb0000000006023841?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "question",
+          "prediction"
+        ],
+        "contentPreview": "#世界杯聊个球 #足球赛事分析"
+      },
+      {
+        "title": "美加墨世界杯，内马尔戴帽，摩洛哥战平巴西",
+        "author": "足球之家",
+        "likes": 1290,
+        "comments": 67,
+        "url": "https://www.xiaohongshu.com/explore/6a2df0c00000000007028b94?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star"
+        ],
+        "contentPreview": "#世界杯聊个球 #足球解说"
+      },
+      {
+        "title": "继续爆冷！6月22日世界杯 32 强实时晋级对阵",
+        "author": "三三得九",
+        "likes": 644,
+        "comments": 91,
+        "url": "https://www.xiaohongshu.com/explore/6a38a621000000001503fdb9?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "question",
+          "shock",
+          "number_fact",
+          "prediction"
+        ],
+        "contentPreview": "截至6月22日所有小组赛战罢，实时出线格局全部整理完毕✅\n已有3支球队晋级落位已确认，淘汰/出线形势一目了然\n建议先收藏！随时查看最新积分和32强对阵推演，不用到处翻赛程\n配图三份干货清单：\n▫️32强实时对阵总览\n▫️小组第三名实时排名\n▫️各组完整积分表｜清晰标注已出线 / 已淘汰 / 当前实时出线\n附带完整32强"
+      },
+      {
+        "title": "C罗0射正！五盾军团全场梦游！",
+        "author": "卓耀足球",
+        "likes": 461,
+        "comments": 63,
+        "url": "https://www.xiaohongshu.com/explore/6a3300040000000016027f4e?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "star",
+          "number_fact",
+          "emotion"
+        ],
+        "contentPreview": "葡萄牙vs民主刚果#世界杯聊个球 #世界杯 #足球解说 #葡萄牙vs民主刚果 #世界杯剪辑小赛 #唯有足球不可辜负热爱足球 #C罗"
+      },
+      {
+        "title": "酣畅淋漓！世界杯H组，西班牙VS沙特！",
+        "author": "小杨足球",
+        "likes": 567,
+        "comments": 24,
+        "url": "https://www.xiaohongshu.com/explore/6a3827e60000000021008b06?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "plain"
+        ],
+        "contentPreview": "#世界杯聊个球 #世界杯剪辑小赛 #世界杯 #亚马尔 #西班牙VS沙特 #足球解说"
+      },
+      {
+        "title": "",
+        "author": "帝皇",
+        "likes": 541,
+        "comments": 7,
+        "url": "https://www.xiaohongshu.com/explore/68e3552c00000000040289fe?xsec_token=REDACTED&xsec_source=pc_search",
+        "buckets": [
+          "question"
+        ],
+        "contentPreview": "“我们为什么深爱着足球这项运动”#足球#世界杯#欧冠#英超"
+      }
+    ],
+    "detailMedia": [
+      {
+        "title": "【真实解说】球王梅西帽子戏法！",
+        "author": "真实球迷汇",
+        "likes": 7667,
+        "comments": 466,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "梅西",
+          "世界杯聊个球",
+          "足球",
+          "世界杯里看世界",
+          "世界杯下饭时刻",
+          "真实球迷汇",
+          "阿根廷",
+          "劳塔罗",
+          "冈萨雷斯",
+          "大马丁"
+        ]
+      },
+      {
+        "title": "阿根廷VS阿尔及利亚16分钟梅西远射破门",
+        "author": "世界杯瞬间",
+        "likes": 5561,
+        "comments": 1114,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯",
+          "世界杯聊个球",
+          "边看边聊世界杯",
+          "阿根廷vs阿尔及利亚"
+        ]
+      },
+      {
+        "title": "进球了，进球了，梅西强的可怕",
+        "author": "🎬娱圈叨叨叨～",
+        "likes": 6540,
+        "comments": 541,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "我的世界杯日记",
+          "世界杯聊个球",
+          "世界杯赛事直击",
+          "范志毅",
+          "梅西",
+          "MindBack"
+        ]
+      },
+      {
+        "title": "“散步”的梅西是如何踢球的！",
+        "author": "越位指南",
+        "likes": 5059,
+        "comments": 355,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "藏不住了我是球迷",
+          "我的世界杯日记",
+          "世界杯剪辑小赛",
+          "边看边聊世界杯",
+          "决战足球梗之巅",
+          "世界杯笑个球"
+        ]
+      },
+      {
+        "title": "早起解说完阿根廷VS阿尔及利亚",
+        "author": "范志毅",
+        "likes": 3827,
+        "comments": 265,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "世界杯直播",
+          "世界杯赛事直击"
+        ]
+      },
+      {
+        "title": "哈兰德的进球方式 总是让人意想不到！",
+        "author": "发财兔钓娱",
+        "likes": 3201,
+        "comments": 48,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "世界杯笑个球",
+          "我的世界杯日记",
+          "哈兰德",
+          "足球",
+          "万万没想到",
+          "藏不住了我是球迷"
+        ]
+      },
+      {
+        "title": "思路打开｜哈兰德的进球方式不受限",
+        "author": "远方的知识认知",
+        "likes": 16000,
+        "comments": 1088,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "美加墨世界杯",
+          "夏日足球盛宴",
+          "思路打开",
+          "足球少年",
+          "神锋哈兰德",
+          "足球的魅力",
+          "哈兰德",
+          "00后也能扛大旗"
+        ]
+      },
+      {
+        "title": "世界杯|C罗第六次出战 葡萄牙1-1刚果（金）",
+        "author": "世界杯快报",
+        "likes": 714,
+        "comments": 855,
+        "videoCount": 0,
+        "imgCount": 13,
+        "tags": [
+          "世界杯聊个球",
+          "边看边聊世界杯"
+        ]
+      },
+      {
+        "title": "发明越位的人真的是一个天才",
+        "author": "玩梗风向标",
+        "likes": 2798,
+        "comments": 133,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯",
+          "足球",
+          "越位",
+          "名场面",
+          "世界杯聊个球",
+          "藏不住了我是球迷",
+          "娱乐评论大赏"
+        ]
+      },
+      {
+        "title": "逆境之王！C罗的那一晚这一脚",
+        "author": "看台长凳观赛",
+        "likes": 2301,
+        "comments": 118,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "世界杯里看世界",
+          "决战足球梗之巅"
+        ]
+      },
+      {
+        "title": "裁判视角看梅西超远世界波",
+        "author": "热血体育报",
+        "likes": 1737,
+        "comments": 239,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "藏不住了我是球迷",
+          "世界杯聊个球",
+          "我的世界杯日记",
+          "世界杯剪辑小赛",
+          "决战足球梗之巅",
+          "世界杯笑个球",
+          "好视频扶持计划",
+          "边看边聊世界杯",
+          "世界杯直播",
+          "世界杯赛事直击"
+        ]
+      },
+      {
+        "title": "C罗",
+        "author": "KJTS",
+        "likes": 56000,
+        "comments": 734,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "c罗最后一舞",
+          "c罗庆祝",
+          "c罗名场面",
+          "c罗身体素质好强",
+          "美加墨世界杯"
+        ]
+      },
+      {
+        "title": "阿根廷3-0阿尔及利亚，梅西三球，全场集锦",
+        "author": "追球日记",
+        "likes": 1699,
+        "comments": 114,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯记忆",
+          "世界杯里看世界",
+          "用二次元打开世界杯",
+          "来小红书看世界杯",
+          "2026美加墨世界杯",
+          "世界杯",
+          "小红书球迷大会",
+          "世界杯聊个球",
+          "我的世界杯日记",
+          "藏不住了我是球迷"
+        ]
+      },
+      {
+        "title": "【真解说球】葡萄牙爆冷平刚果！",
+        "author": "真实球迷汇",
+        "likes": 1296,
+        "comments": 199,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "足球",
+          "C罗",
+          "马丁内斯",
+          "弗洛伦蒂诺",
+          "真实球迷汇",
+          "来小红书看世界杯",
+          "世界杯下饭时刻",
+          "世界杯"
+        ]
+      },
+      {
+        "title": "英超最佳球员的标准来衡量 本场表现如何？",
+        "author": "足球元素",
+        "likes": 901,
+        "comments": 251,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "足球赛事分析"
+        ]
+      },
+      {
+        "title": "美加墨世界杯，内马尔戴帽，摩洛哥战平巴西",
+        "author": "足球之家",
+        "likes": 1290,
+        "comments": 67,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "足球解说"
+        ]
+      },
+      {
+        "title": "继续爆冷！6月22日世界杯 32 强实时晋级对阵",
+        "author": "三三得九",
+        "likes": 645,
+        "comments": 91,
+        "videoCount": 0,
+        "imgCount": 5,
+        "tags": [
+          "2026美加墨世界杯",
+          "美加墨世界杯",
+          "世界杯赛程",
+          "足球球迷",
+          "世界杯预测",
+          "世界杯聊个球",
+          "32强实时对阵",
+          "世界杯积分排行榜"
+        ]
+      },
+      {
+        "title": "C罗0射正！五盾军团全场梦游！",
+        "author": "卓耀足球",
+        "likes": 461,
+        "comments": 63,
+        "videoCount": 1,
+        "imgCount": 0,
+        "tags": [
+          "世界杯聊个球",
+          "世界杯",
+          "足球解说",
+          "葡萄牙vs民主刚果",
+          "世界杯剪辑小赛",
+          "唯有足球不可辜负热爱足球",
+          "C罗"
+        ]
+      }
+    ]
+  }
+}

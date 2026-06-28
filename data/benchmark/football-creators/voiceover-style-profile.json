@@ -1,0 +1,721 @@
+{
+  "generatedAt": "2026-06-23T03:38:26.811Z",
+  "evidenceBase": {
+    "totalVideos": 115,
+    "usableNarratedVideos": 110,
+    "fullTranscriptManifest": "/Users/airhua/Documents/world-cup/docs/benchmark-full-transcripts/full-transcript-manifest.json",
+    "emptyAsrIds": [
+      "006-4",
+      "096-uIvSPDW-D_Y"
+    ],
+    "sourceCounts": {
+      "xhs": 16,
+      "youtube": 99
+    }
+  },
+  "globalSignals": {
+    "classCounts": [
+      {
+        "id": "question_explainer",
+        "count": 55
+      },
+      {
+        "id": "twist_story",
+        "count": 22
+      },
+      {
+        "id": "emotional_time_story",
+        "count": 12
+      },
+      {
+        "id": "general_narrative",
+        "count": 11
+      },
+      {
+        "id": "live_match_commentary",
+        "count": 5
+      },
+      {
+        "id": "silent_or_subtitle_only",
+        "count": 4
+      },
+      {
+        "id": "clip_commentary",
+        "count": 4
+      },
+      {
+        "id": "star_micro_story",
+        "count": 2
+      }
+    ],
+    "openingCounts": [
+      {
+        "id": "direct_question",
+        "count": 61
+      },
+      {
+        "id": "start_from_visible_moment",
+        "count": 24
+      },
+      {
+        "id": "live_action_entry",
+        "count": 11
+      },
+      {
+        "id": "compressed_context_entry",
+        "count": 10
+      },
+      {
+        "id": "value_or_attitude_claim",
+        "count": 5
+      },
+      {
+        "id": "no_spoken_hook",
+        "count": 4
+      }
+    ],
+    "endingCounts": [
+      {
+        "id": "fact_payoff",
+        "count": 40
+      },
+      {
+        "id": "open_loop_or_summary",
+        "count": 34
+      },
+      {
+        "id": "emotional_payoff",
+        "count": 25
+      },
+      {
+        "id": "question_or_debate",
+        "count": 12
+      },
+      {
+        "id": "none",
+        "count": 4
+      }
+    ],
+    "segmentFunctionCounts": [
+      {
+        "id": "推进解释",
+        "count": 1690
+      },
+      {
+        "id": "补证据",
+        "count": 1175
+      },
+      {
+        "id": "补事实锚点",
+        "count": 1079
+      },
+      {
+        "id": "收束观点",
+        "count": 1010
+      },
+      {
+        "id": "交代背景",
+        "count": 1001
+      },
+      {
+        "id": "压缩入场",
+        "count": 567
+      },
+      {
+        "id": "建立人物",
+        "count": 308
+      },
+      {
+        "id": "描述动作",
+        "count": 306
+      },
+      {
+        "id": "制造冲突",
+        "count": 144
+      },
+      {
+        "id": "抛问题",
+        "count": 101
+      },
+      {
+        "id": "情绪回收",
+        "count": 57
+      },
+      {
+        "id": "揭示细节",
+        "count": 42
+      },
+      {
+        "id": "引导互动",
+        "count": 33
+      }
+    ],
+    "segmentTechniqueCounts": [
+      {
+        "id": "承接前句继续解释原因",
+        "count": 1690
+      },
+      {
+        "id": "把前面的判断落到证据",
+        "count": 1175
+      },
+      {
+        "id": "用数字、比分、年份或排名支撑判断",
+        "count": 1079
+      },
+      {
+        "id": "把信息回收到结论或余味",
+        "count": 1010
+      },
+      {
+        "id": "用少量上下文让事件成立",
+        "count": 1001
+      },
+      {
+        "id": "不铺长背景，直接给观众进入点",
+        "count": 567
+      },
+      {
+        "id": "用球星或人物名把信息聚焦",
+        "count": 308
+      },
+      {
+        "id": "把比赛变化落到可见动作",
+        "count": 306
+      },
+      {
+        "id": "把失误、争议或压力具体化",
+        "count": 144
+      },
+      {
+        "id": "用疑问制造信息缺口",
+        "count": 101
+      },
+      {
+        "id": "用人物情绪把事实变成故事",
+        "count": 57
+      },
+      {
+        "id": "用回放/镜头改变第一印象",
+        "count": 42
+      }
+    ],
+    "medianNarratedChars": 407,
+    "p80NarratedChars": 1050
+  },
+  "engines": [
+    {
+      "id": "question_explainer",
+      "label": "问题解释型",
+      "narrationMode": "narrative_voiceover",
+      "defaultDifficulty": "medium",
+      "bestFor": [
+        "规则争议",
+        "反常操作",
+        "战术板/教练指令",
+        "非球迷看不懂的镜头"
+      ],
+      "avoidWhen": [
+        "没有可见问题",
+        "只能讲抽象趋势",
+        "需要逐帧证明但没有完整比赛"
+      ],
+      "evidenceRequired": [
+        "一个具体问题",
+        "一条规则或原因",
+        "能被暂停看的动作/站位/回放"
+      ],
+      "openingMoves": [
+        "直接问为什么",
+        "先把观众可能看错的点说出来",
+        "用一句话说明看这球的条件"
+      ],
+      "voiceoverMoves": [
+        "问题",
+        "普通话解释规则/原因",
+        "把答案落到动作",
+        "给观众一个判断句"
+      ],
+      "topicShapes": [
+        "为什么这个动作会让全场吵起来？",
+        "先别急着站队，这一下到底算不算犯规？"
+      ],
+      "sampleCount": 55,
+      "sourceMix": {
+        "xhs": 1,
+        "youtube": 54
+      },
+      "medianChars": 522,
+      "p80Chars": 1092,
+      "riskFlags": [
+        {
+          "id": "long_live_or_full_match_density",
+          "count": 12
+        },
+        {
+          "id": "multi_asset_fact_list",
+          "count": 4
+        },
+        {
+          "id": "strict_visual_rule_match",
+          "count": 2
+        }
+      ],
+      "sampleIds": [
+        "014-16",
+        "003-gOf7a1x2O9k",
+        "005-RPwn8dnp9Hk",
+        "007-Cne03IQJgrE",
+        "008-TMTYVuw9ibM",
+        "010-Ae7Og2vQP-s",
+        "011-WfkdcXnGUUI",
+        "013-fWZXeTfAlDw",
+        "016-RYI3Qwy1Z4Q",
+        "018-yiizD8Oc-3k"
+      ]
+    },
+    {
+      "id": "visible_incident",
+      "label": "可见瞬间反转型",
+      "narrationMode": "narrative_voiceover",
+      "defaultDifficulty": "medium",
+      "bestFor": [
+        "门将失误",
+        "拒绝下场",
+        "回放后改观",
+        "一次反击或庆祝动作"
+      ],
+      "avoidWhen": [
+        "没有主镜头",
+        "只能靠文案硬讲",
+        "素材全是新闻图"
+      ],
+      "evidenceRequired": [
+        "一个动作",
+        "一次回放/慢镜头/原声变化",
+        "后果或误会"
+      ],
+      "openingMoves": [
+        "从动作开始",
+        "说第一眼容易看错",
+        "把后果压到第二句"
+      ],
+      "voiceoverMoves": [
+        "动作",
+        "第一眼判断",
+        "回放改写",
+        "谁被误会/谁要背锅"
+      ],
+      "topicShapes": [
+        "第一眼都以为稳了，慢镜头出来才知道哪里不对",
+        "一个低级动作，把全队辛苦拼来的希望送走"
+      ],
+      "sampleCount": 33,
+      "sourceMix": {
+        "xhs": 6,
+        "youtube": 27
+      },
+      "medianChars": 361,
+      "p80Chars": 1086,
+      "riskFlags": [
+        {
+          "id": "long_live_or_full_match_density",
+          "count": 6
+        },
+        {
+          "id": "strict_visual_rule_match",
+          "count": 2
+        },
+        {
+          "id": "too_little_voiceover_to_model",
+          "count": 1
+        },
+        {
+          "id": "multi_asset_fact_list",
+          "count": 1
+        }
+      ],
+      "sampleIds": [
+        "003-1",
+        "009-9",
+        "011-11",
+        "012-13",
+        "013-14",
+        "016-18",
+        "002-Bl9hk6ZRB_o",
+        "005-5MMGEZWCZZk",
+        "006-oK1GuoijDtk",
+        "009-6gaFmicoBiw"
+      ]
+    },
+    {
+      "id": "human_relationship",
+      "label": "人物关系揭示型",
+      "narrationMode": "narrative_voiceover",
+      "defaultDifficulty": "low",
+      "bestFor": [
+        "球星和球迷",
+        "旧队友/父子/教练关系",
+        "最后一舞",
+        "弱队人物故事"
+      ],
+      "avoidWhen": [
+        "人物关系未经证实",
+        "只有比分没有人",
+        "需要大量历史素材但找不到"
+      ],
+      "evidenceRequired": [
+        "一个人物",
+        "一个反应/对视/拥抱/表情",
+        "一个时间差或旧事实"
+      ],
+      "openingMoves": [
+        "先给相遇/反应",
+        "延迟揭示身份",
+        "用一个年份或旧关系补事实"
+      ],
+      "voiceoverMoves": [
+        "看见人",
+        "揭示关系",
+        "补一个时间事实",
+        "落到情绪余味"
+      ],
+      "topicShapes": [
+        "他看到这个人之后，表情突然变了",
+        "17 年后再相遇，球王先认出的不是对手"
+      ],
+      "sampleCount": 12,
+      "sourceMix": {
+        "xhs": 1,
+        "youtube": 11
+      },
+      "medianChars": 371,
+      "p80Chars": 478,
+      "riskFlags": [
+        {
+          "id": "multi_asset_fact_list",
+          "count": 3
+        },
+        {
+          "id": "long_live_or_full_match_density",
+          "count": 1
+        }
+      ],
+      "sampleIds": [
+        "010-10",
+        "001-QqD5jAtG-6I",
+        "004-4mrE991YMuw",
+        "012-U16b3elR24Q",
+        "024-P3G_lRwAB6o",
+        "030-uagjvVqIkTU",
+        "039-SYQooFxgGXA",
+        "064-XxlQKSt1OBs",
+        "069-OxDsYL60u4I",
+        "072-kXmFC6WmBc4"
+      ]
+    },
+    {
+      "id": "star_micro_action",
+      "label": "球星微动作型",
+      "narrationMode": "narrative_voiceover",
+      "defaultDifficulty": "medium",
+      "bestFor": [
+        "梅西/C罗/姆巴佩/哈兰德",
+        "压力与衰老",
+        "队长责任",
+        "成人礼"
+      ],
+      "avoidWhen": [
+        "只想列荣誉",
+        "没有球星特写",
+        "素材只剩远景"
+      ],
+      "evidenceRequired": [
+        "一个球星",
+        "一个触球/助跑/回头/摊手/回追",
+        "一句为什么这个动作能说明问题"
+      ],
+      "openingMoves": [
+        "别写履历，先看动作",
+        "把流量名字落成一个镜头",
+        "用动作解释压力"
+      ],
+      "voiceoverMoves": [
+        "球星名字",
+        "动作",
+        "压力解释",
+        "评论区选择"
+      ],
+      "topicShapes": [
+        "C罗那几步助跑，像是在拒绝结局",
+        "亚马尔回头看替补席那一下，比过人更像成人礼"
+      ],
+      "sampleCount": 2,
+      "sourceMix": {
+        "youtube": 2
+      },
+      "medianChars": 445,
+      "p80Chars": 445,
+      "riskFlags": [
+        {
+          "id": "multi_asset_fact_list",
+          "count": 1
+        }
+      ],
+      "sampleIds": [
+        "003-blTqGtCS-vE",
+        "050-PxNb3ZWqKis"
+      ]
+    },
+    {
+      "id": "commentary_assist",
+      "label": "原声解说辅助型",
+      "narrationMode": "commentary_assisted",
+      "defaultDifficulty": "high",
+      "bestFor": [
+        "新鲜进球",
+        "高能集锦",
+        "真实解说",
+        "绝杀/神扑/帽子戏法"
+      ],
+      "avoidWhen": [
+        "原声不可用",
+        "版权/平台音频风险高",
+        "旁白会抢掉现场情绪"
+      ],
+      "evidenceRequired": [
+        "清晰原声",
+        "比分/球员字幕",
+        "至少一个高能动作"
+      ],
+      "openingMoves": [
+        "标题先定调",
+        "旁白只补一句背景",
+        "让原声承担情绪"
+      ],
+      "voiceoverMoves": [
+        "一句短引入",
+        "原声",
+        "字幕解释",
+        "结果/评论问题"
+      ],
+      "topicShapes": [
+        "原声已经够狠，旁白别抢戏",
+        "这个球只需要给名字和比分，剩下交给现场"
+      ],
+      "sampleCount": 9,
+      "sourceMix": {
+        "xhs": 5,
+        "youtube": 4
+      },
+      "medianChars": 228,
+      "p80Chars": 335,
+      "riskFlags": [
+        {
+          "id": "needs_original_audio",
+          "count": 9
+        },
+        {
+          "id": "multi_asset_fact_list",
+          "count": 1
+        }
+      ],
+      "sampleIds": [
+        "004-3",
+        "005-2",
+        "007-5",
+        "008-6",
+        "015-15",
+        "004-PcVXpYFdYEI",
+        "014-Y0DWK7_ygB4",
+        "028-DzY72ejkFt4",
+        "034-UkJ6UkVdNRw"
+      ]
+    },
+    {
+      "id": "subtitle_first",
+      "label": "字幕/原声主导型",
+      "narrationMode": "subtitle_first",
+      "defaultDifficulty": "high",
+      "bestFor": [
+        "无口播热梗",
+        "极短名场面",
+        "评论区搬运",
+        "表情包式瞬间"
+      ],
+      "avoidWhen": [
+        "需要完整讲解",
+        "没有强字幕",
+        "画面本身不够懂"
+      ],
+      "evidenceRequired": [
+        "一条强字幕",
+        "一个能停住的瞬间",
+        "无需解释也能懂的情绪"
+      ],
+      "openingMoves": [
+        "大字先打结论",
+        "保留原声/静默",
+        "只加极短说明"
+      ],
+      "voiceoverMoves": [
+        "少说",
+        "停顿",
+        "让字幕和动作负责"
+      ],
+      "topicShapes": [
+        "这一秒不用讲道理，字幕放中间就够了"
+      ],
+      "sampleCount": 4,
+      "sourceMix": {
+        "xhs": 3,
+        "youtube": 1
+      },
+      "medianChars": 7,
+      "p80Chars": 7,
+      "riskFlags": [
+        {
+          "id": "subtitle_or_raw_sound_only",
+          "count": 4
+        },
+        {
+          "id": "too_little_voiceover_to_model",
+          "count": 4
+        }
+      ],
+      "sampleIds": [
+        "001-12",
+        "002-7",
+        "006-4",
+        "096-uIvSPDW-D_Y"
+      ]
+    },
+    {
+      "id": "fact_list",
+      "label": "事实盘点型",
+      "narrationMode": "narrative_voiceover",
+      "defaultDifficulty": "high",
+      "bestFor": [
+        "榜单",
+        "历史最佳阵容",
+        "纪录盘点",
+        "门将/红牌合集"
+      ],
+      "avoidWhen": [
+        "没有多素材",
+        "只有一场比赛",
+        "每个事实都需要独立画面"
+      ],
+      "evidenceRequired": [
+        "至少三段不同素材",
+        "每项一个数字或画面",
+        "明确排序或问题"
+      ],
+      "openingMoves": [
+        "用一个反常数字开场",
+        "先问为什么",
+        "不要铺完整榜单"
+      ],
+      "voiceoverMoves": [
+        "问题",
+        "一项事实",
+        "一段画面",
+        "快收束"
+      ],
+      "topicShapes": [
+        "为什么世界杯总能养出一战封神的门将？"
+      ],
+      "sampleCount": 10,
+      "sourceMix": {
+        "xhs": 1,
+        "youtube": 9
+      },
+      "medianChars": 478,
+      "p80Chars": 1078,
+      "riskFlags": [
+        {
+          "id": "multi_asset_fact_list",
+          "count": 10
+        },
+        {
+          "id": "long_live_or_full_match_density",
+          "count": 2
+        },
+        {
+          "id": "needs_original_audio",
+          "count": 1
+        }
+      ],
+      "sampleIds": [
+        "015-15",
+        "012-U16b3elR24Q",
+        "026-IpT8FKrsxLs",
+        "033-6eUMoijRwec",
+        "038-DoDMffdSomA",
+        "046-IVCHATet0Jo",
+        "050-PxNb3ZWqKis",
+        "063-ynzq-l9Ez1g",
+        "069-OxDsYL60u4I",
+        "079-EWlKIcUo4_c"
+      ]
+    }
+  ],
+  "editDifficulty": {
+    "buckets": {
+      "high": 56,
+      "medium": 59
+    },
+    "riskBuckets": {
+      "subtitle_or_raw_sound_only": 4,
+      "too_little_voiceover_to_model": 5,
+      "long_live_or_full_match_density": 19,
+      "needs_original_audio": 9,
+      "strict_visual_rule_match": 4,
+      "multi_asset_fact_list": 10
+    },
+    "hardFilterRules": [
+      {
+        "id": "strict_visual_rule_match",
+        "label": "规则/战术逐帧匹配",
+        "defaultAction": "hide_unless_full_match_or_diagram",
+        "reason": "越位、VAR、战术指令类题必须和画面精确对齐，缺完整比赛或示意图时容易翻车。"
+      },
+      {
+        "id": "needs_original_audio",
+        "label": "强依赖原声解说",
+        "defaultAction": "route_to_commentary_assisted",
+        "reason": "实况解说类不是旁白型脚本，强行加解说会抢掉现场情绪。"
+      },
+      {
+        "id": "multi_asset_fact_list",
+        "label": "多素材盘点",
+        "defaultAction": "lower_topic_score",
+        "reason": "榜单/盘点需要多段素材逐条对应，自动剪辑成本高。"
+      },
+      {
+        "id": "subtitle_or_raw_sound_only",
+        "label": "字幕/原声主导",
+        "defaultAction": "route_to_subtitle_first",
+        "reason": "这类样本靠字幕和原声成立，不适合生成长旁白。"
+      }
+    ]
+  },
+  "writingRules": {
+    "dominantShape": "直接问题/可见瞬间 -> 少量背景 -> 解释推进 -> 证据补充 -> 余味或站队",
+    "lineRhythm": "短句为主，一句一个信息点；60 秒约 10-18 个口播块。",
+    "prefer": [
+      "具体动作",
+      "人名",
+      "比分/年份/排名只留一个",
+      "回放/原声/表情",
+      "谁被误会或谁要承担后果"
+    ],
+    "avoid": [
+      "押一个/前20分钟/谁先急",
+      "更重要的是/真正的问题在于/本质上/归根结底",
+      "不是X而是Y",
+      "客观赛前分析",
+      "把剪辑思路念给观众听"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.local
+.venv/
+.venv-*/
+runs/
+playwright-report/
+test-results/
+skills/**/.git/
+data/benchmark/**/audio/
+data/benchmark/**/videos/
+data/benchmark/**/tmp/

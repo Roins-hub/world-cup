@@ -1,0 +1,34 @@
+{
+  "source": "xhs",
+  "metadata": {
+    "id": "12",
+    "title": "C罗",
+    "url": "https://www.xiaohongshu.com/explore/6a26d01c000000002200ae57?xsec_token=REDACTED&xsec_source=pc_search",
+    "video_url": "https://sns-bak-v1.xhscdn.com/stream/79/110/259/01ea26cfd94d70c3010370039ea79d6fe6_259.mp4",
+    "likes": 56000,
+    "comments": 734,
+    "author": "KJTS",
+    "content": "逆天核心 解说：C罗摔…起来了！",
+    "tags": [
+      "c罗最后一舞",
+      "c罗庆祝",
+      "c罗名场面",
+      "c罗身体素质好强",
+      "美加墨世界杯"
+    ]
+  },
+  "asr": {
+    "model": "small",
+    "language": "zh",
+    "language_probability": 1,
+    "duration": 21.0619375
+  },
+  "text": "字幕by索兰娅",
+  "segments": [
+    {
+      "start": 1.55,
+      "end": 3.55,
+      "text": "字幕by索兰娅"
+    }
+  ]
+}

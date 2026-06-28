@@ -1,0 +1,17 @@
+标题: C罗
+来源: xhs
+作者/频道: KJTS
+URL: https://www.xiaohongshu.com/explore/6a26d01c000000002200ae57?xsec_token=REDACTED&xsec_source=pc_search
+本地 ASR JSON: /Users/airhua/Documents/world-cup/data/benchmark/football-creators/xhs/transcripts/001-12.json
+分类: silent_or_subtitle_only
+开头形态: no_spoken_hook
+结尾形态: none
+标签: star
+字数: 7
+字幕段数: 1
+
+完整合并旁白:
+字幕by索兰娅
+
+完整时间轴字幕:
+001 00:00:01,550 --> 00:00:03,550 字幕by索兰娅
