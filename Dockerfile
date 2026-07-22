@@ -16,9 +16,10 @@ RUN apt-get update \
 # 创建 Python 虚拟环境
 RUN python3 -m venv /opt/venv
 
-ENV PATH="/opt/venv/bin:$PATH"
+# Claude Code 原生安装器默认安装到 /root/.local/bin
+ENV PATH="/root/.local/bin:/opt/venv/bin:$PATH"
 
-# 安装 Python 依赖
+# 安装项目需要的 Python 包
 RUN pip install --no-cache-dir \
     yt-dlp \
     pymediainfo==7.0.1 \
@@ -26,12 +27,12 @@ RUN pip install --no-cache-dir \
     websockets==15.0.1
 
 # 安装 Claude Code CLI
-RUN npm install -g @anthropic-ai/claude-code@latest \
+RUN curl -fsSL https://claude.ai/install.sh | bash \
     && claude --version
 
 WORKDIR /app
 
-# 先复制依赖文件，利用 Docker 缓存
+# 先复制依赖清单，利用 Docker 缓存
 COPY package.json package-lock.json ./
 
 RUN npm ci
@@ -44,7 +45,8 @@ RUN npm run build
 
 ENV NODE_ENV=production
 ENV DISABLE_AUTOUPDATER=1
-ENV CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1
+ENV CLAUDE_CODE_SKIP_PROMPT_HISTORY=1
+ENV CLAUDE_CODE_DISABLE_AUTO_MEMORY=1
 
 EXPOSE 4317
 
