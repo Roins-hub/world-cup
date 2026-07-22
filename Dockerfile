@@ -85,7 +85,7 @@ if [ -n "${CODEX_BASE_URL:-}" ] \
 
   export CODEX_PUBLISH_MODEL="${CODEX_PUBLISH_MODEL:-$CODEX_CREATIVE_MODEL}"
 
-  cat > "$CODEX_HOME/config.toml" <<CONFIG
+   cat > "$CODEX_HOME/config.toml" <<CONFIG
 model = "${CODEX_CREATIVE_MODEL}"
 model_provider = "relay"
 
@@ -94,6 +94,9 @@ name = "Relay"
 base_url = "${CODEX_BASE_URL}"
 env_key = "CODEX_RELAY_API_KEY"
 wire_api = "responses"
+supports_websockets = false
+stream_max_retries = 1
+stream_idle_timeout_ms = 180000
 CONFIG
 
   echo "Codex 中转配置已加载"
