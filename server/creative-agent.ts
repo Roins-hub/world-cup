@@ -647,7 +647,6 @@ export async function runCodexCreativeAgent(input: CodexCreativeInput): Promise<
 
   const args = [
     "exec",
-    "--ignore-user-config",
     "--ephemeral",
     "--sandbox",
     "read-only",
@@ -794,7 +793,6 @@ export async function runCodexPublishAgent(input: CodexPublishInput): Promise<Om
   const outPath = path.join(tmpDir, "publish-kit.json");
   const args = [
     "exec",
-    "--ignore-user-config",
     "--ephemeral",
     "--sandbox",
     "read-only",
