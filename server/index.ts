@@ -110,6 +110,24 @@ app.post("/api/xhs/publish", async (req, res, next) => {
     next(error);
   }
 });
+// 提供 Vite 构建后的前端文件
+const distPath = path.join(process.cwd(), "dist");
+
+app.use(express.static(distPath));
+
+// React 单页应用路由回退
+app.use((req, res, next) => {
+  if (
+    req.method === "GET" &&
+    !req.path.startsWith("/api") &&
+    !req.path.startsWith("/artifacts")
+  ) {
+    res.sendFile(path.join(distPath, "index.html"));
+    return;
+  }
+
+  next();
+});
 
 app.use((error: unknown, _req: express.Request, res: express.Response, _next: express.NextFunction) => {
   const message = error instanceof Error ? error.message : "Unknown error";
