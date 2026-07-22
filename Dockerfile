@@ -23,6 +23,10 @@ RUN pip install --no-cache-dir \
     edge-tts==7.2.3 \
     websockets==15.0.1
 
+# 安装 OpenAI Codex CLI，并在构建时检查是否安装成功
+RUN npm install -g @openai/codex \
+    && codex --version
+
 WORKDIR /app
 
 # 先复制依赖文件，利用 Docker 构建缓存
