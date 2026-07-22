@@ -583,161 +583,58 @@ async function retrieveBenchmarkReferences(input: CodexCreativeInput): Promise<B
 
 function spawnCodex(args: string[], prompt: string, timeoutMs: number) {
   return new Promise<{ stdout: string; stderr: string }>((resolve, reject) => {
-    // 保留项目现有的 CODEX_CREATIVE_MODEL / CODEX_PUBLISH_MODEL 变量名，
-    // 但底层实际改为调用 Claude Code CLI。
-    const modelFlagIndex = args.indexOf("--model");
-    const model =
-      modelFlagIndex >= 0 && args[modelFlagIndex + 1]
-        ? args[modelFlagIndex + 1]
-        : process.env.ANTHROPIC_MODEL;
-
-    const claudeArgs = [
-      "-p",
-      "--output-format",
-      "text",
-      "--permission-mode",
-      "dontAsk",
-      "--disallowedTools",
-      "*",
-      "--no-session-persistence",
-      "--system-prompt",
-      "你是一个只负责生成结构化内容的非交互式内容引擎。禁止调用任何工具、读取文件、修改文件或执行命令。严格遵循用户提示，只输出用户要求的最终内容。",
-    ];
-
-    if (model) {
-      claudeArgs.push("--model", model);
-    }
-
-    // Node 的 spawn 不经过 shell，因此长提示词作为最后一个参数传入时
-    // 不会发生引号转义或命令注入问题。
-    claudeArgs.push(prompt);
-
-    const child = spawn("claude", claudeArgs, {
+    const child = spawn("codex", args, {
       cwd: process.cwd(),
-      env: {
-        ...process.env,
-        NO_COLOR: "1",
-        DISABLE_AUTOUPDATER: "1",
-        CLAUDE_CODE_SKIP_PROMPT_HISTORY: "1",
-        CLAUDE_CODE_DISABLE_AUTO_MEMORY: "1"
-      },
+      env: { ...process.env, NO_COLOR: "1" },
       detached: true,
-      stdio: ["ignore", "pipe", "pipe"]
+      stdio: ["pipe", "pipe", "pipe"]
     });
-
     let stdout = "";
     let stderr = "";
-    let settled = false;
-
     const terminate = (signal: NodeJS.Signals) => {
       try {
-        if (child.pid) {
-          process.kill(-child.pid, signal);
-        }
+        if (child.pid) process.kill(-child.pid, signal);
       } catch {
         child.kill(signal);
       }
     };
-
-    const finishReject = (error: Error) => {
-      if (settled) return;
-      settled = true;
-      reject(error);
-    };
-
     const timeout = setTimeout(() => {
       terminate("SIGTERM");
-
       setTimeout(() => {
-        if (child.exitCode === null && child.signalCode === null) {
-          terminate("SIGKILL");
-        }
+        if (child.exitCode === null && child.signalCode === null) terminate("SIGKILL");
       }, 3000).unref();
-
-      finishReject(
-        new Error(
-          `Claude creative agent timed out after ${timeoutMs}ms. ` +
-            `stdout=${stdout.slice(0, 600)} stderr=${stderr.slice(0, 600)}`
-        )
-      );
+      reject(new Error(`Codex creative agent timed out after ${timeoutMs}ms. stdout=${stdout.slice(0, 400)} stderr=${stderr.slice(0, 400)}`));
     }, timeoutMs);
-
     child.stdout.setEncoding("utf8");
     child.stderr.setEncoding("utf8");
-
     child.stdout.on("data", (chunk) => {
       stdout += chunk;
     });
-
     child.stderr.on("data", (chunk) => {
       stderr += chunk;
     });
-
     child.on("error", (error) => {
       clearTimeout(timeout);
-      finishReject(error);
+      reject(error);
     });
-
     child.on("close", (code) => {
       clearTimeout(timeout);
-
-      if (settled) return;
-      settled = true;
-
-      if (code === 0) {
-        resolve({ stdout, stderr });
-      } else {
-        reject(
-          new Error(
-            `Claude creative agent exited with ${code}. ` +
-              `stdout=${stdout.slice(0, 1200)} stderr=${stderr.slice(0, 1200)}`
-          )
-        );
-      }
+      if (code === 0) resolve({ stdout, stderr });
+      else reject(new Error(`Codex creative agent exited with ${code}. stdout=${stdout.slice(0, 600)} stderr=${stderr.slice(0, 600)}`));
     });
+    child.stdin.end(prompt);
   });
 }
 
-async function runCodexPrompt(
-  args: string[],
-  prompt: string,
-  outPath: string,
-  timeoutMs: number,
-  tmpDir: string
-) {
+async function runCodexPrompt(args: string[], prompt: string, outPath: string, timeoutMs: number, tmpDir: string) {
   const { stdout, stderr } = await spawnCodex(args, prompt, timeoutMs);
-
   if (process.env.WC_CODEX_DEBUG === "1") {
-    await writeFile(
-      path.join(tmpDir, `stdout-${path.basename(outPath)}.log`),
-      stdout,
-      "utf8"
-    );
-    await writeFile(
-      path.join(tmpDir, `stderr-${path.basename(outPath)}.log`),
-      stderr,
-      "utf8"
-    );
-    await writeFile(
-      path.join(tmpDir, `prompt-${path.basename(outPath)}.txt`),
-      prompt,
-      "utf8"
-    );
+    await writeFile(path.join(tmpDir, `stdout-${path.basename(outPath)}.log`), stdout, "utf8");
+    await writeFile(path.join(tmpDir, `stderr-${path.basename(outPath)}.log`), stderr, "utf8");
+    await writeFile(path.join(tmpDir, `prompt-${path.basename(outPath)}.txt`), prompt, "utf8");
   }
-
-  // Claude Code 的 print 模式把最终文本直接写到 stdout。
-  // 为兼容旧逻辑，若 outPath 已存在则仍可作为备用输出。
-  const fileOutput = await readFile(outPath, "utf8").catch(() => "");
-  const outputText = stdout.trim() || fileOutput.trim();
-
-  if (process.env.WC_CODEX_DEBUG === "1") {
-    await writeFile(
-      path.join(tmpDir, `output-${path.basename(outPath)}.txt`),
-      outputText,
-      "utf8"
-    );
-  }
-
+  const outputText = await readFile(outPath, "utf8").catch(() => "");
+  if (process.env.WC_CODEX_DEBUG === "1") await writeFile(path.join(tmpDir, `output-${path.basename(outPath)}.txt`), outputText, "utf8");
   return { stdout, outputText };
 }
 
@@ -754,6 +651,7 @@ export async function runCodexCreativeAgent(input: CodexCreativeInput): Promise<
     "--ephemeral",
     "--sandbox",
     "read-only",
+    "--skip-git-repo-check",
     "--output-last-message",
     outPath,
     "-C",
@@ -900,6 +798,7 @@ export async function runCodexPublishAgent(input: CodexPublishInput): Promise<Om
     "--ephemeral",
     "--sandbox",
     "read-only",
+    "--skip-git-repo-check",
     "--output-last-message",
     outPath,
     "-C",
@@ -971,7 +870,7 @@ export function contentPackFromCreativeDraft(
     id: "codex-agent-audience",
     label: draft.viralScore.targetAudienceLabel,
     platforms: draft.viralScore.recommendedPlatforms,
-    painPoint: "由 Claude 创作代理根据热点、素材和样本风格自动判断。",
+    painPoint: "由 Codex 创作代理根据热点、素材和样本风格自动判断。",
     contentPromise: "不套模板，围绕可见证据和观众想继续看的问题组织内容。"
   };
   const viralScore: ViralScore = {
@@ -997,11 +896,11 @@ export function contentPackFromCreativeDraft(
     viralScore,
     costEstimate: {
       interactions: 1,
-      model: process.env.CODEX_CREATIVE_MODEL || process.env.ANTHROPIC_MODEL || "claude -p",
+      model: process.env.CODEX_CREATIVE_MODEL || "codex exec",
       estimatedUsd: 0
     },
     workflowNotes: [
-      "Claude 创作代理生成：素材/热点/样本风格进入提示词，TypeScript 不再模板化编写标题和旁白。",
+      "Codex 创作代理生成：素材/热点/样本风格进入提示词，TypeScript 不再模板化编写标题和旁白。",
       ...draft.rewriteNotes
     ]
   };
